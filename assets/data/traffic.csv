@@ -1,0 +1,3001 @@
+"Day","Hour","Metro","scaled"
+3,0,"Dallas",3.7
+3,1,"Dallas",1.1
+3,2,"Dallas",0
+3,3,"Dallas",0.1
+3,4,"Dallas",2.4
+3,5,"Dallas",10.7
+3,6,"Dallas",39.2
+3,7,"Dallas",67.2
+3,8,"Dallas",66.3
+3,9,"Dallas",65.2
+3,10,"Dallas",61.9
+3,11,"Dallas",68
+3,12,"Dallas",75.4
+3,13,"Dallas",78.3
+3,14,"Dallas",84.2
+3,15,"Dallas",100
+3,16,"Dallas",99.5
+3,17,"Dallas",83.8
+3,18,"Dallas",74.4
+3,19,"Dallas",52.7
+3,20,"Dallas",39.7
+3,21,"Dallas",31.6
+3,22,"Dallas",23.1
+3,23,"Dallas",14.3
+4,0,"Dallas",12.6
+4,1,"Dallas",5.7
+4,2,"Dallas",3
+4,3,"Dallas",0
+4,4,"Dallas",0.2
+4,5,"Dallas",2.9
+4,6,"Dallas",12.4
+4,7,"Dallas",28
+4,8,"Dallas",38.9
+4,9,"Dallas",58.7
+4,10,"Dallas",71.6
+4,11,"Dallas",94
+4,12,"Dallas",100
+4,13,"Dallas",88.4
+4,14,"Dallas",78.9
+4,15,"Dallas",81.2
+4,16,"Dallas",74
+4,17,"Dallas",75.4
+4,18,"Dallas",70.8
+4,19,"Dallas",81.5
+4,20,"Dallas",65.8
+4,21,"Dallas",46.6
+4,22,"Dallas",33.9
+4,23,"Dallas",21.3
+5,0,"Dallas",10.4
+5,1,"Dallas",4.5
+5,2,"Dallas",1.8
+5,3,"Dallas",0
+5,4,"Dallas",0.9
+5,5,"Dallas",6.4
+5,6,"Dallas",20.2
+5,7,"Dallas",37.1
+5,8,"Dallas",48.4
+5,9,"Dallas",62.2
+5,10,"Dallas",66.4
+5,11,"Dallas",77.9
+5,12,"Dallas",84.6
+5,13,"Dallas",87.4
+5,14,"Dallas",88.8
+5,15,"Dallas",100
+5,16,"Dallas",98.2
+5,17,"Dallas",86
+5,18,"Dallas",85.9
+5,19,"Dallas",62.5
+5,20,"Dallas",46.7
+5,21,"Dallas",40.6
+5,22,"Dallas",34.1
+5,23,"Dallas",22
+6,0,"Dallas",11.2
+6,1,"Dallas",5.5
+6,2,"Dallas",3.9
+6,3,"Dallas",0.4
+6,4,"Dallas",0
+6,5,"Dallas",3.3
+6,6,"Dallas",12.5
+6,7,"Dallas",27.6
+6,8,"Dallas",42.9
+6,9,"Dallas",60.4
+6,10,"Dallas",66.1
+6,11,"Dallas",78
+6,12,"Dallas",86.1
+6,13,"Dallas",88.6
+6,14,"Dallas",87.2
+6,15,"Dallas",99.6
+6,16,"Dallas",100
+6,17,"Dallas",92
+6,18,"Dallas",94.8
+6,19,"Dallas",67.8
+6,20,"Dallas",51
+6,21,"Dallas",40.9
+6,22,"Dallas",32.7
+6,23,"Dallas",23.2
+7,0,"Dallas",15.4
+7,1,"Dallas",8.3
+7,2,"Dallas",6.3
+7,3,"Dallas",1.2
+7,4,"Dallas",0
+7,5,"Dallas",2
+7,6,"Dallas",8.1
+7,7,"Dallas",17.7
+7,8,"Dallas",31.7
+7,9,"Dallas",49.9
+7,10,"Dallas",53.1
+7,11,"Dallas",65.7
+7,12,"Dallas",80.1
+7,13,"Dallas",87.8
+7,14,"Dallas",89.7
+7,15,"Dallas",100
+7,16,"Dallas",94.9
+7,17,"Dallas",79.3
+7,18,"Dallas",71.8
+7,19,"Dallas",50.3
+7,20,"Dallas",35.9
+7,21,"Dallas",25.3
+7,22,"Dallas",16
+7,23,"Dallas",8.9
+3,0,"Portland",3.3
+3,1,"Portland",1
+3,2,"Portland",0
+3,3,"Portland",0.9
+3,4,"Portland",3.7
+3,5,"Portland",10.7
+3,6,"Portland",40.4
+3,7,"Portland",74.9
+3,8,"Portland",71
+3,9,"Portland",66.9
+3,10,"Portland",62.6
+3,11,"Portland",68.8
+3,12,"Portland",77
+3,13,"Portland",81.9
+3,14,"Portland",87.1
+3,15,"Portland",95.3
+3,16,"Portland",100
+3,17,"Portland",88
+3,18,"Portland",64.3
+3,19,"Portland",41
+3,20,"Portland",30.3
+3,21,"Portland",23.8
+3,22,"Portland",17.2
+3,23,"Portland",10.6
+4,0,"Portland",9.1
+4,1,"Portland",3.7
+4,2,"Portland",1.2
+4,3,"Portland",0
+4,4,"Portland",0.6
+4,5,"Portland",2.2
+4,6,"Portland",9.2
+4,7,"Portland",19.9
+4,8,"Portland",32.4
+4,9,"Portland",50.8
+4,10,"Portland",59.1
+4,11,"Portland",78.5
+4,12,"Portland",97.1
+4,13,"Portland",100
+4,14,"Portland",85.4
+4,15,"Portland",74.1
+4,16,"Portland",73.3
+4,17,"Portland",72.1
+4,18,"Portland",68.6
+4,19,"Portland",55.6
+4,20,"Portland",48.6
+4,21,"Portland",39.1
+4,22,"Portland",25.1
+4,23,"Portland",14.8
+5,0,"Portland",5.8
+5,1,"Portland",1.8
+5,2,"Portland",0.1
+5,3,"Portland",0
+5,4,"Portland",2.4
+5,5,"Portland",6.7
+5,6,"Portland",21.5
+5,7,"Portland",41.4
+5,8,"Portland",53.6
+5,9,"Portland",69
+5,10,"Portland",71.3
+5,11,"Portland",83
+5,12,"Portland",89.7
+5,13,"Portland",92
+5,14,"Portland",92
+5,15,"Portland",97.3
+5,16,"Portland",100
+5,17,"Portland",89.5
+5,18,"Portland",71.7
+5,19,"Portland",46.1
+5,20,"Portland",35.1
+5,21,"Portland",28.1
+5,22,"Portland",22.3
+5,23,"Portland",13.5
+6,0,"Portland",7.9
+6,1,"Portland",4.3
+6,2,"Portland",2.5
+6,3,"Portland",0.4
+6,4,"Portland",0
+6,5,"Portland",1.6
+6,6,"Portland",10.8
+6,7,"Portland",25.4
+6,8,"Portland",43.2
+6,9,"Portland",64.6
+6,10,"Portland",68.7
+6,11,"Portland",82.3
+6,12,"Portland",91.7
+6,13,"Portland",90.5
+6,14,"Portland",86.9
+6,15,"Portland",88.3
+6,16,"Portland",100
+6,17,"Portland",96.3
+6,18,"Portland",81.8
+6,19,"Portland",53.2
+6,20,"Portland",39.7
+6,21,"Portland",32.3
+6,22,"Portland",23.8
+6,23,"Portland",16
+7,0,"Portland",11.8
+7,1,"Portland",5.3
+7,2,"Portland",3.7
+7,3,"Portland",0
+7,4,"Portland",0.2
+7,5,"Portland",1.3
+7,6,"Portland",7.8
+7,7,"Portland",18.8
+7,8,"Portland",36.2
+7,9,"Portland",63.6
+7,10,"Portland",62.9
+7,11,"Portland",74.7
+7,12,"Portland",88.2
+7,13,"Portland",94.1
+7,14,"Portland",89.5
+7,15,"Portland",93.8
+7,16,"Portland",100
+7,17,"Portland",88.6
+7,18,"Portland",64.9
+7,19,"Portland",44.3
+7,20,"Portland",34.3
+7,21,"Portland",22.4
+7,22,"Portland",12
+7,23,"Portland",6.6
+3,0,"Seattle",2.6
+3,1,"Seattle",0.5
+3,2,"Seattle",0
+3,3,"Seattle",0.7
+3,4,"Seattle",5.5
+3,5,"Seattle",17.2
+3,6,"Seattle",45.8
+3,7,"Seattle",74
+3,8,"Seattle",70.5
+3,9,"Seattle",64.1
+3,10,"Seattle",54.9
+3,11,"Seattle",59.7
+3,12,"Seattle",69.8
+3,13,"Seattle",78.8
+3,14,"Seattle",84.2
+3,15,"Seattle",91.1
+3,16,"Seattle",100
+3,17,"Seattle",87.8
+3,18,"Seattle",65.2
+3,19,"Seattle",40.8
+3,20,"Seattle",30
+3,21,"Seattle",23
+3,22,"Seattle",16.4
+3,23,"Seattle",10.3
+4,0,"Seattle",8.1
+4,1,"Seattle",3.8
+4,2,"Seattle",2
+4,3,"Seattle",0
+4,4,"Seattle",1.1
+4,5,"Seattle",3.6
+4,6,"Seattle",9.3
+4,7,"Seattle",18.1
+4,8,"Seattle",28.6
+4,9,"Seattle",41.9
+4,10,"Seattle",49.5
+4,11,"Seattle",69.6
+4,12,"Seattle",89.1
+4,13,"Seattle",100
+4,14,"Seattle",95.5
+4,15,"Seattle",77
+4,16,"Seattle",63.7
+4,17,"Seattle",59.3
+4,18,"Seattle",57.2
+4,19,"Seattle",51.3
+4,20,"Seattle",52.1
+4,21,"Seattle",43.7
+4,22,"Seattle",27.4
+4,23,"Seattle",15.2
+5,0,"Seattle",7.2
+5,1,"Seattle",2.2
+5,2,"Seattle",0
+5,3,"Seattle",0.1
+5,4,"Seattle",3
+5,5,"Seattle",9.9
+5,6,"Seattle",25.3
+5,7,"Seattle",44.2
+5,8,"Seattle",56.6
+5,9,"Seattle",72.4
+5,10,"Seattle",73.9
+5,11,"Seattle",87.1
+5,12,"Seattle",92.9
+5,13,"Seattle",87.5
+5,14,"Seattle",86.1
+5,15,"Seattle",88.1
+5,16,"Seattle",100
+5,17,"Seattle",91.7
+5,18,"Seattle",72.5
+5,19,"Seattle",47.7
+5,20,"Seattle",36.6
+5,21,"Seattle",29
+5,22,"Seattle",24.1
+5,23,"Seattle",15.5
+6,0,"Seattle",7.3
+6,1,"Seattle",4.1
+6,2,"Seattle",2.2
+6,3,"Seattle",0
+6,4,"Seattle",0.2
+6,5,"Seattle",3.1
+6,6,"Seattle",12
+6,7,"Seattle",26.1
+6,8,"Seattle",41.2
+6,9,"Seattle",60.8
+6,10,"Seattle",63.3
+6,11,"Seattle",76.7
+6,12,"Seattle",83.9
+6,13,"Seattle",85.4
+6,14,"Seattle",83.4
+6,15,"Seattle",90
+6,16,"Seattle",100
+6,17,"Seattle",92.1
+6,18,"Seattle",78.1
+6,19,"Seattle",53.7
+6,20,"Seattle",40.2
+6,21,"Seattle",33
+6,22,"Seattle",27
+6,23,"Seattle",17.5
+7,0,"Seattle",12.8
+7,1,"Seattle",6.7
+7,2,"Seattle",4.5
+7,3,"Seattle",0.6
+7,4,"Seattle",0
+7,5,"Seattle",3.1
+7,6,"Seattle",10.9
+7,7,"Seattle",23
+7,8,"Seattle",41.1
+7,9,"Seattle",66.2
+7,10,"Seattle",68.5
+7,11,"Seattle",82.3
+7,12,"Seattle",97.4
+7,13,"Seattle",94.4
+7,14,"Seattle",82.8
+7,15,"Seattle",81
+7,16,"Seattle",100
+7,17,"Seattle",95.9
+7,18,"Seattle",74.5
+7,19,"Seattle",47.7
+7,20,"Seattle",32.4
+7,21,"Seattle",22.4
+7,22,"Seattle",14.6
+7,23,"Seattle",6.3
+3,0,"Tampa",3.9
+3,1,"Tampa",1.1
+3,2,"Tampa",0.1
+3,3,"Tampa",0
+3,4,"Tampa",1.9
+3,5,"Tampa",10.1
+3,6,"Tampa",38.9
+3,7,"Tampa",73.1
+3,8,"Tampa",76.7
+3,9,"Tampa",76.4
+3,10,"Tampa",68.8
+3,11,"Tampa",74.3
+3,12,"Tampa",82.7
+3,13,"Tampa",83.9
+3,14,"Tampa",83.5
+3,15,"Tampa",97.6
+3,16,"Tampa",100
+3,17,"Tampa",91.7
+3,18,"Tampa",69.7
+3,19,"Tampa",53.1
+3,20,"Tampa",37.5
+3,21,"Tampa",30
+3,22,"Tampa",23.9
+3,23,"Tampa",17.2
+4,0,"Tampa",12.8
+4,1,"Tampa",6.6
+4,2,"Tampa",3.4
+4,3,"Tampa",1.5
+4,4,"Tampa",0
+4,5,"Tampa",2.4
+4,6,"Tampa",11.5
+4,7,"Tampa",23.6
+4,8,"Tampa",35.8
+4,9,"Tampa",56
+4,10,"Tampa",65
+4,11,"Tampa",88.1
+4,12,"Tampa",100
+4,13,"Tampa",91.4
+4,14,"Tampa",80.4
+4,15,"Tampa",84.7
+4,16,"Tampa",83.7
+4,17,"Tampa",82.6
+4,18,"Tampa",77.8
+4,19,"Tampa",64.9
+4,20,"Tampa",53.9
+4,21,"Tampa",41.3
+4,22,"Tampa",28.2
+4,23,"Tampa",17.4
+5,0,"Tampa",9.4
+5,1,"Tampa",3.7
+5,2,"Tampa",0.6
+5,3,"Tampa",0
+5,4,"Tampa",1.5
+5,5,"Tampa",7.4
+5,6,"Tampa",24.3
+5,7,"Tampa",45.6
+5,8,"Tampa",58.9
+5,9,"Tampa",75.5
+5,10,"Tampa",76.3
+5,11,"Tampa",85.1
+5,12,"Tampa",89.8
+5,13,"Tampa",91.5
+5,14,"Tampa",91.1
+5,15,"Tampa",100
+5,16,"Tampa",98.2
+5,17,"Tampa",93
+5,18,"Tampa",80.3
+5,19,"Tampa",61.1
+5,20,"Tampa",45.5
+5,21,"Tampa",36.7
+5,22,"Tampa",31.7
+5,23,"Tampa",22.1
+6,0,"Tampa",11.6
+6,1,"Tampa",5.6
+6,2,"Tampa",2.1
+6,3,"Tampa",1.5
+6,4,"Tampa",0
+6,5,"Tampa",3.8
+6,6,"Tampa",15.6
+6,7,"Tampa",34.2
+6,8,"Tampa",54
+6,9,"Tampa",79.3
+6,10,"Tampa",80
+6,11,"Tampa",92.6
+6,12,"Tampa",93.9
+6,13,"Tampa",88
+6,14,"Tampa",84.9
+6,15,"Tampa",97.4
+6,16,"Tampa",100
+6,17,"Tampa",94.1
+6,18,"Tampa",82.6
+6,19,"Tampa",65.8
+6,20,"Tampa",47
+6,21,"Tampa",37.6
+6,22,"Tampa",31.8
+6,23,"Tampa",22.7
+7,0,"Tampa",13.9
+7,1,"Tampa",6.1
+7,2,"Tampa",2.7
+7,3,"Tampa",2.3
+7,4,"Tampa",0
+7,5,"Tampa",2.3
+7,6,"Tampa",10
+7,7,"Tampa",22.2
+7,8,"Tampa",39.1
+7,9,"Tampa",62
+7,10,"Tampa",64.9
+7,11,"Tampa",79.5
+7,12,"Tampa",92.3
+7,13,"Tampa",95
+7,14,"Tampa",94.2
+7,15,"Tampa",100
+7,16,"Tampa",92.4
+7,17,"Tampa",84.8
+7,18,"Tampa",67.6
+7,19,"Tampa",58.9
+7,20,"Tampa",49.2
+7,21,"Tampa",26.9
+7,22,"Tampa",18.5
+7,23,"Tampa",9.5
+3,0,"San Francisco",5.6
+3,1,"San Francisco",1.8
+3,2,"San Francisco",0
+3,3,"San Francisco",1.4
+3,4,"San Francisco",7.7
+3,5,"San Francisco",20.5
+3,6,"San Francisco",45.4
+3,7,"San Francisco",72
+3,8,"San Francisco",74.8
+3,9,"San Francisco",70.8
+3,10,"San Francisco",64.3
+3,11,"San Francisco",69.3
+3,12,"San Francisco",76.2
+3,13,"San Francisco",83.3
+3,14,"San Francisco",90.7
+3,15,"San Francisco",92.8
+3,16,"San Francisco",100
+3,17,"San Francisco",94.5
+3,18,"San Francisco",76.3
+3,19,"San Francisco",51.7
+3,20,"San Francisco",37.7
+3,21,"San Francisco",30.8
+3,22,"San Francisco",24.4
+3,23,"San Francisco",16.1
+4,0,"San Francisco",12.4
+4,1,"San Francisco",4.8
+4,2,"San Francisco",1.9
+4,3,"San Francisco",0
+4,4,"San Francisco",1.9
+4,5,"San Francisco",5
+4,6,"San Francisco",12.8
+4,7,"San Francisco",26
+4,8,"San Francisco",36.6
+4,9,"San Francisco",52.3
+4,10,"San Francisco",63
+4,11,"San Francisco",81.6
+4,12,"San Francisco",92.2
+4,13,"San Francisco",98.3
+4,14,"San Francisco",100
+4,15,"San Francisco",95.7
+4,16,"San Francisco",87.7
+4,17,"San Francisco",75.8
+4,18,"San Francisco",61.1
+4,19,"San Francisco",50.6
+4,20,"San Francisco",52.3
+4,21,"San Francisco",54.1
+4,22,"San Francisco",42
+4,23,"San Francisco",24.4
+5,0,"San Francisco",12
+5,1,"San Francisco",4.4
+5,2,"San Francisco",0.7
+5,3,"San Francisco",0
+5,4,"San Francisco",2.6
+5,5,"San Francisco",7.6
+5,6,"San Francisco",19.3
+5,7,"San Francisco",35.3
+5,8,"San Francisco",46.6
+5,9,"San Francisco",63
+5,10,"San Francisco",72.2
+5,11,"San Francisco",85.3
+5,12,"San Francisco",90
+5,13,"San Francisco",91.6
+5,14,"San Francisco",92
+5,15,"San Francisco",90.3
+5,16,"San Francisco",100
+5,17,"San Francisco",97.8
+5,18,"San Francisco",83
+5,19,"San Francisco",57.9
+5,20,"San Francisco",43.6
+5,21,"San Francisco",36.1
+5,22,"San Francisco",31.2
+5,23,"San Francisco",22.6
+6,0,"San Francisco",11.4
+6,1,"San Francisco",5.9
+6,2,"San Francisco",3
+6,3,"San Francisco",0
+6,4,"San Francisco",0.2
+6,5,"San Francisco",2.5
+6,6,"San Francisco",11.1
+6,7,"San Francisco",23.4
+6,8,"San Francisco",37.7
+6,9,"San Francisco",54.6
+6,10,"San Francisco",61.1
+6,11,"San Francisco",73
+6,12,"San Francisco",80.4
+6,13,"San Francisco",85.3
+6,14,"San Francisco",86.5
+6,15,"San Francisco",87.4
+6,16,"San Francisco",97.4
+6,17,"San Francisco",100
+6,18,"San Francisco",87.8
+6,19,"San Francisco",61.3
+6,20,"San Francisco",45.9
+6,21,"San Francisco",39.6
+6,22,"San Francisco",36.2
+6,23,"San Francisco",25.9
+7,0,"San Francisco",18.2
+7,1,"San Francisco",9.5
+7,2,"San Francisco",5.1
+7,3,"San Francisco",0
+7,4,"San Francisco",0.5
+7,5,"San Francisco",3.1
+7,6,"San Francisco",10.6
+7,7,"San Francisco",22.2
+7,8,"San Francisco",38.1
+7,9,"San Francisco",60.8
+7,10,"San Francisco",70.2
+7,11,"San Francisco",81.9
+7,12,"San Francisco",90.5
+7,13,"San Francisco",91
+7,14,"San Francisco",88
+7,15,"San Francisco",91.4
+7,16,"San Francisco",97.4
+7,17,"San Francisco",100
+7,18,"San Francisco",85.9
+7,19,"San Francisco",58.9
+7,20,"San Francisco",44.9
+7,21,"San Francisco",33.3
+7,22,"San Francisco",23.5
+7,23,"San Francisco",13.3
+3,0,"New York",9.3
+3,1,"New York",3.3
+3,2,"New York",0.1
+3,3,"New York",0
+3,4,"New York",4.2
+3,5,"New York",15.1
+3,6,"New York",47
+3,7,"New York",83.8
+3,8,"New York",85.8
+3,9,"New York",70.7
+3,10,"New York",58.7
+3,11,"New York",60.7
+3,12,"New York",66.3
+3,13,"New York",72.3
+3,14,"New York",77.7
+3,15,"New York",96.7
+3,16,"New York",100
+3,17,"New York",93.9
+3,18,"New York",72.3
+3,19,"New York",58.1
+3,20,"New York",46.4
+3,21,"New York",38
+3,22,"New York",31.6
+3,23,"New York",22.9
+4,0,"New York",16.1
+4,1,"New York",7.4
+4,2,"New York",2.4
+4,3,"New York",0
+4,4,"New York",1.1
+4,5,"New York",4.2
+4,6,"New York",14.9
+4,7,"New York",26.2
+4,8,"New York",33.8
+4,9,"New York",43.6
+4,10,"New York",49.9
+4,11,"New York",65.9
+4,12,"New York",84
+4,13,"New York",99.7
+4,14,"New York",100
+4,15,"New York",93.6
+4,16,"New York",79.7
+4,17,"New York",68.4
+4,18,"New York",58.1
+4,19,"New York",59
+4,20,"New York",68.3
+4,21,"New York",66
+4,22,"New York",55.7
+4,23,"New York",38.3
+5,0,"New York",21.4
+5,1,"New York",9.4
+5,2,"New York",2.7
+5,3,"New York",0
+5,4,"New York",1.9
+5,5,"New York",7.8
+5,6,"New York",25.3
+5,7,"New York",45.8
+5,8,"New York",55.6
+5,9,"New York",61.2
+5,10,"New York",62.3
+5,11,"New York",72.9
+5,12,"New York",81.6
+5,13,"New York",85.6
+5,14,"New York",89.5
+5,15,"New York",100
+5,16,"New York",96.9
+5,17,"New York",91.2
+5,18,"New York",70.8
+5,19,"New York",56.7
+5,20,"New York",44.9
+5,21,"New York",38.1
+5,22,"New York",33.8
+5,23,"New York",25.5
+6,0,"New York",14
+6,1,"New York",6.6
+6,2,"New York",2
+6,3,"New York",0
+6,4,"New York",1.1
+6,5,"New York",3.7
+6,6,"New York",15.5
+6,7,"New York",33
+6,8,"New York",47
+6,9,"New York",60.3
+6,10,"New York",64.7
+6,11,"New York",76.6
+6,12,"New York",84.4
+6,13,"New York",85.8
+6,14,"New York",86
+6,15,"New York",98.1
+6,16,"New York",100
+6,17,"New York",98.6
+6,18,"New York",84.2
+6,19,"New York",72.1
+6,20,"New York",58.4
+6,21,"New York",48.7
+6,22,"New York",41.4
+6,23,"New York",32.2
+7,0,"New York",18.9
+7,1,"New York",9.2
+7,2,"New York",3.2
+7,3,"New York",0
+7,4,"New York",0.1
+7,5,"New York",1.4
+7,6,"New York",9.4
+7,7,"New York",20.7
+7,8,"New York",33.3
+7,9,"New York",49.2
+7,10,"New York",55.9
+7,11,"New York",69.3
+7,12,"New York",79.7
+7,13,"New York",86.1
+7,14,"New York",88.6
+7,15,"New York",100
+7,16,"New York",97.4
+7,17,"New York",87.9
+7,18,"New York",67.5
+7,19,"New York",55.2
+7,20,"New York",45.8
+7,21,"New York",32.4
+7,22,"New York",20.9
+7,23,"New York",10.6
+3,0,"Miami",6.2
+3,1,"Miami",2.4
+3,2,"Miami",0.2
+3,3,"Miami",0
+3,4,"Miami",2.5
+3,5,"Miami",9.2
+3,6,"Miami",37.8
+3,7,"Miami",79.2
+3,8,"Miami",88.7
+3,9,"Miami",81.7
+3,10,"Miami",70.9
+3,11,"Miami",73
+3,12,"Miami",76.2
+3,13,"Miami",77.2
+3,14,"Miami",79.1
+3,15,"Miami",94.4
+3,16,"Miami",100
+3,17,"Miami",97
+3,18,"Miami",77.8
+3,19,"Miami",56.6
+3,20,"Miami",41.2
+3,21,"Miami",33.2
+3,22,"Miami",26.9
+3,23,"Miami",18.9
+4,0,"Miami",17.9
+4,1,"Miami",7.2
+4,2,"Miami",2.1
+4,3,"Miami",0
+4,4,"Miami",0.9
+4,5,"Miami",4.1
+4,6,"Miami",18.1
+4,7,"Miami",35.4
+4,8,"Miami",47.4
+4,9,"Miami",62.3
+4,10,"Miami",62.9
+4,11,"Miami",73.8
+4,12,"Miami",81.7
+4,13,"Miami",84.1
+4,14,"Miami",84.8
+4,15,"Miami",99.1
+4,16,"Miami",100
+4,17,"Miami",95.7
+4,18,"Miami",85.2
+4,19,"Miami",69
+4,20,"Miami",58.4
+4,21,"Miami",51.6
+4,22,"Miami",45.5
+4,23,"Miami",33.2
+5,0,"Miami",18.1
+5,1,"Miami",8
+5,2,"Miami",2
+5,3,"Miami",0
+5,4,"Miami",2.1
+5,5,"Miami",7.7
+5,6,"Miami",26
+5,7,"Miami",51.8
+5,8,"Miami",63.9
+5,9,"Miami",75.1
+5,10,"Miami",74.5
+5,11,"Miami",83
+5,12,"Miami",87.9
+5,13,"Miami",88.6
+5,14,"Miami",88.6
+5,15,"Miami",100
+5,16,"Miami",98.1
+5,17,"Miami",94.7
+5,18,"Miami",81.7
+5,19,"Miami",67.1
+5,20,"Miami",52.8
+5,21,"Miami",43.8
+5,22,"Miami",37.3
+5,23,"Miami",29
+6,0,"Miami",15.7
+6,1,"Miami",7.1
+6,2,"Miami",2
+6,3,"Miami",0
+6,4,"Miami",0
+6,5,"Miami",2.3
+6,6,"Miami",16.3
+6,7,"Miami",38.7
+6,8,"Miami",57.2
+6,9,"Miami",76.1
+6,10,"Miami",79.4
+6,11,"Miami",88.5
+6,12,"Miami",91.2
+6,13,"Miami",91
+6,14,"Miami",88.5
+6,15,"Miami",99.6
+6,16,"Miami",100
+6,17,"Miami",98
+6,18,"Miami",89
+6,19,"Miami",76.9
+6,20,"Miami",60.2
+6,21,"Miami",49.4
+6,22,"Miami",40.8
+6,23,"Miami",31.5
+7,0,"Miami",20.8
+7,1,"Miami",9.7
+7,2,"Miami",3.1
+7,3,"Miami",0.4
+7,4,"Miami",0
+7,5,"Miami",0.7
+7,6,"Miami",9.6
+7,7,"Miami",23.5
+7,8,"Miami",38.7
+7,9,"Miami",61.3
+7,10,"Miami",68.2
+7,11,"Miami",79.7
+7,12,"Miami",85.5
+7,13,"Miami",86.2
+7,14,"Miami",84.7
+7,15,"Miami",95
+7,16,"Miami",97.2
+7,17,"Miami",100
+7,18,"Miami",84
+7,19,"Miami",60.7
+7,20,"Miami",44.4
+7,21,"Miami",31.3
+7,22,"Miami",23
+7,23,"Miami",12.1
+3,0,"Atlanta",5.6
+3,1,"Atlanta",1.9
+3,2,"Atlanta",0.3
+3,3,"Atlanta",0
+3,4,"Atlanta",2.4
+3,5,"Atlanta",11.2
+3,6,"Atlanta",37
+3,7,"Atlanta",60.8
+3,8,"Atlanta",61.6
+3,9,"Atlanta",62.1
+3,10,"Atlanta",60.9
+3,11,"Atlanta",66.7
+3,12,"Atlanta",76.3
+3,13,"Atlanta",82.6
+3,14,"Atlanta",87.2
+3,15,"Atlanta",100
+3,16,"Atlanta",99.6
+3,17,"Atlanta",88
+3,18,"Atlanta",65.2
+3,19,"Atlanta",49.7
+3,20,"Atlanta",38
+3,21,"Atlanta",31.2
+3,22,"Atlanta",23.4
+3,23,"Atlanta",16.5
+4,0,"Atlanta",16.4
+4,1,"Atlanta",6.4
+4,2,"Atlanta",2.1
+4,3,"Atlanta",0.5
+4,4,"Atlanta",0
+4,5,"Atlanta",3.9
+4,6,"Atlanta",13.3
+4,7,"Atlanta",22.7
+4,8,"Atlanta",33.9
+4,9,"Atlanta",50.2
+4,10,"Atlanta",61.3
+4,11,"Atlanta",79.4
+4,12,"Atlanta",87
+4,13,"Atlanta",85.5
+4,14,"Atlanta",87.4
+4,15,"Atlanta",100
+4,16,"Atlanta",97.1
+4,17,"Atlanta",89
+4,18,"Atlanta",80
+4,19,"Atlanta",69.1
+4,20,"Atlanta",63.6
+4,21,"Atlanta",50.3
+4,22,"Atlanta",37.6
+4,23,"Atlanta",24.4
+5,0,"Atlanta",12.4
+5,1,"Atlanta",5.7
+5,2,"Atlanta",1.5
+5,3,"Atlanta",0
+5,4,"Atlanta",1
+5,5,"Atlanta",6.2
+5,6,"Atlanta",18.7
+5,7,"Atlanta",34.1
+5,8,"Atlanta",44.4
+5,9,"Atlanta",57
+5,10,"Atlanta",60.8
+5,11,"Atlanta",71.5
+5,12,"Atlanta",79.4
+5,13,"Atlanta",84.1
+5,14,"Atlanta",86.3
+5,15,"Atlanta",100
+5,16,"Atlanta",97.2
+5,17,"Atlanta",92.5
+5,18,"Atlanta",78.4
+5,19,"Atlanta",60.8
+5,20,"Atlanta",47.3
+5,21,"Atlanta",38.3
+5,22,"Atlanta",33.5
+5,23,"Atlanta",25.2
+6,0,"Atlanta",12.9
+6,1,"Atlanta",6.2
+6,2,"Atlanta",2.7
+6,3,"Atlanta",1.1
+6,4,"Atlanta",0
+6,5,"Atlanta",2.7
+6,6,"Atlanta",12
+6,7,"Atlanta",25.9
+6,8,"Atlanta",41.5
+6,9,"Atlanta",59.6
+6,10,"Atlanta",66.7
+6,11,"Atlanta",77.9
+6,12,"Atlanta",83.4
+6,13,"Atlanta",85.5
+6,14,"Atlanta",85.7
+6,15,"Atlanta",95.9
+6,16,"Atlanta",100
+6,17,"Atlanta",97.4
+6,18,"Atlanta",82.8
+6,19,"Atlanta",69.6
+6,20,"Atlanta",53.1
+6,21,"Atlanta",41.6
+6,22,"Atlanta",33.5
+6,23,"Atlanta",23.3
+7,0,"Atlanta",14.6
+7,1,"Atlanta",7.3
+7,2,"Atlanta",3
+7,3,"Atlanta",1.5
+7,4,"Atlanta",0
+7,5,"Atlanta",2.5
+7,6,"Atlanta",9
+7,7,"Atlanta",19
+7,8,"Atlanta",31.6
+7,9,"Atlanta",49.2
+7,10,"Atlanta",57.3
+7,11,"Atlanta",70.2
+7,12,"Atlanta",83.7
+7,13,"Atlanta",88.1
+7,14,"Atlanta",87.8
+7,15,"Atlanta",97.8
+7,16,"Atlanta",100
+7,17,"Atlanta",96.4
+7,18,"Atlanta",74
+7,19,"Atlanta",60.6
+7,20,"Atlanta",42.3
+7,21,"Atlanta",27.4
+7,22,"Atlanta",17.3
+7,23,"Atlanta",9
+3,0,"Los Angeles",5.5
+3,1,"Los Angeles",1.7
+3,2,"Los Angeles",0.2
+3,3,"Los Angeles",0
+3,4,"Los Angeles",4.3
+3,5,"Los Angeles",17.5
+3,6,"Los Angeles",45
+3,7,"Los Angeles",71
+3,8,"Los Angeles",69.8
+3,9,"Los Angeles",65.7
+3,10,"Los Angeles",60.9
+3,11,"Los Angeles",65.8
+3,12,"Los Angeles",75
+3,13,"Los Angeles",81.2
+3,14,"Los Angeles",87.6
+3,15,"Los Angeles",91.5
+3,16,"Los Angeles",100
+3,17,"Los Angeles",93.7
+3,18,"Los Angeles",76
+3,19,"Los Angeles",52.4
+3,20,"Los Angeles",39.6
+3,21,"Los Angeles",32.4
+3,22,"Los Angeles",25
+3,23,"Los Angeles",15.8
+4,0,"Los Angeles",15.9
+4,1,"Los Angeles",8.3
+4,2,"Los Angeles",5
+4,3,"Los Angeles",0.1
+4,4,"Los Angeles",0
+4,5,"Los Angeles",5.4
+4,6,"Los Angeles",19.2
+4,7,"Los Angeles",35.6
+4,8,"Los Angeles",48.4
+4,9,"Los Angeles",63.5
+4,10,"Los Angeles",67.5
+4,11,"Los Angeles",82.7
+4,12,"Los Angeles",93.9
+4,13,"Los Angeles",100
+4,14,"Los Angeles",100
+4,15,"Los Angeles",94.8
+4,16,"Los Angeles",93
+4,17,"Los Angeles",87.2
+4,18,"Los Angeles",71.2
+4,19,"Los Angeles",55.2
+4,20,"Los Angeles",54.2
+4,21,"Los Angeles",53.7
+4,22,"Los Angeles",45.1
+4,23,"Los Angeles",27.2
+5,0,"Los Angeles",13.4
+5,1,"Los Angeles",5.2
+5,2,"Los Angeles",1.3
+5,3,"Los Angeles",0
+5,4,"Los Angeles",2
+5,5,"Los Angeles",9.1
+5,6,"Los Angeles",26.6
+5,7,"Los Angeles",46.9
+5,8,"Los Angeles",57.8
+5,9,"Los Angeles",71.8
+5,10,"Los Angeles",73.3
+5,11,"Los Angeles",83.8
+5,12,"Los Angeles",89.4
+5,13,"Los Angeles",90.7
+5,14,"Los Angeles",88.8
+5,15,"Los Angeles",90.6
+5,16,"Los Angeles",100
+5,17,"Los Angeles",98.7
+5,18,"Los Angeles",85.5
+5,19,"Los Angeles",59
+5,20,"Los Angeles",45.7
+5,21,"Los Angeles",39.4
+5,22,"Los Angeles",35.8
+5,23,"Los Angeles",24.7
+6,0,"Los Angeles",12.5
+6,1,"Los Angeles",7.1
+6,2,"Los Angeles",5.5
+6,3,"Los Angeles",0.7
+6,4,"Los Angeles",0
+6,5,"Los Angeles",3.9
+6,6,"Los Angeles",17.1
+6,7,"Los Angeles",35.8
+6,8,"Los Angeles",51.4
+6,9,"Los Angeles",67.6
+6,10,"Los Angeles",69.9
+6,11,"Los Angeles",80.3
+6,12,"Los Angeles",84.7
+6,13,"Los Angeles",91.1
+6,14,"Los Angeles",100
+6,15,"Los Angeles",96.4
+6,16,"Los Angeles",96.8
+6,17,"Los Angeles",93.8
+6,18,"Los Angeles",79.9
+6,19,"Los Angeles",57.8
+6,20,"Los Angeles",45
+6,21,"Los Angeles",39.7
+6,22,"Los Angeles",35
+6,23,"Los Angeles",24.5
+7,0,"Los Angeles",19.6
+7,1,"Los Angeles",11.7
+7,2,"Los Angeles",8.3
+7,3,"Los Angeles",1.4
+7,4,"Los Angeles",0
+7,5,"Los Angeles",3.1
+7,6,"Los Angeles",12.8
+7,7,"Los Angeles",27.3
+7,8,"Los Angeles",44
+7,9,"Los Angeles",65.1
+7,10,"Los Angeles",69
+7,11,"Los Angeles",79.9
+7,12,"Los Angeles",89.8
+7,13,"Los Angeles",94.6
+7,14,"Los Angeles",94.1
+7,15,"Los Angeles",96.5
+7,16,"Los Angeles",100
+7,17,"Los Angeles",92.5
+7,18,"Los Angeles",78.1
+7,19,"Los Angeles",58.8
+7,20,"Los Angeles",47.3
+7,21,"Los Angeles",39.7
+7,22,"Los Angeles",28.8
+7,23,"Los Angeles",17.9
+3,0,"Denver",3.3
+3,1,"Denver",0.7
+3,2,"Denver",0
+3,3,"Denver",1
+3,4,"Denver",3.8
+3,5,"Denver",11
+3,6,"Denver",43
+3,7,"Denver",79.5
+3,8,"Denver",77.5
+3,9,"Denver",73
+3,10,"Denver",65.3
+3,11,"Denver",69.4
+3,12,"Denver",72.2
+3,13,"Denver",77.2
+3,14,"Denver",84.1
+3,15,"Denver",100
+3,16,"Denver",93.1
+3,17,"Denver",87.7
+3,18,"Denver",64.3
+3,19,"Denver",42.3
+3,20,"Denver",30.8
+3,21,"Denver",24.2
+3,22,"Denver",17.8
+3,23,"Denver",12.7
+4,0,"Denver",11.5
+4,1,"Denver",6.7
+4,2,"Denver",3.1
+4,3,"Denver",0
+4,4,"Denver",0.5
+4,5,"Denver",2.9
+4,6,"Denver",13
+4,7,"Denver",26
+4,8,"Denver",37.2
+4,9,"Denver",55.8
+4,10,"Denver",64.1
+4,11,"Denver",86.2
+4,12,"Denver",100
+4,13,"Denver",92.6
+4,14,"Denver",80.5
+4,15,"Denver",80.6
+4,16,"Denver",76.3
+4,17,"Denver",78.7
+4,18,"Denver",78.5
+4,19,"Denver",60.4
+4,20,"Denver",51
+4,21,"Denver",40
+4,22,"Denver",24.9
+4,23,"Denver",13.6
+5,0,"Denver",5.4
+5,1,"Denver",1.7
+5,2,"Denver",0.2
+5,3,"Denver",0
+5,4,"Denver",1.5
+5,5,"Denver",6
+5,6,"Denver",23.1
+5,7,"Denver",46.8
+5,8,"Denver",59.1
+5,9,"Denver",74.1
+5,10,"Denver",72.5
+5,11,"Denver",81.4
+5,12,"Denver",88.7
+5,13,"Denver",86.7
+5,14,"Denver",85.7
+5,15,"Denver",100
+5,16,"Denver",94.2
+5,17,"Denver",96.7
+5,18,"Denver",81.7
+5,19,"Denver",55.6
+5,20,"Denver",42.8
+5,21,"Denver",33.4
+5,22,"Denver",26.7
+5,23,"Denver",17
+6,0,"Denver",8.5
+6,1,"Denver",5.2
+6,2,"Denver",3.3
+6,3,"Denver",0
+6,4,"Denver",0.4
+6,5,"Denver",2.9
+6,6,"Denver",14.3
+6,7,"Denver",33.3
+6,8,"Denver",50.9
+6,9,"Denver",70.4
+6,10,"Denver",71.4
+6,11,"Denver",80.1
+6,12,"Denver",85.7
+6,13,"Denver",85.3
+6,14,"Denver",85.8
+6,15,"Denver",100
+6,16,"Denver",94.4
+6,17,"Denver",96.7
+6,18,"Denver",80.9
+6,19,"Denver",56.3
+6,20,"Denver",41.4
+6,21,"Denver",33.1
+6,22,"Denver",27.4
+6,23,"Denver",22.7
+7,0,"Denver",13.8
+7,1,"Denver",8.5
+7,2,"Denver",4.8
+7,3,"Denver",0
+7,4,"Denver",0
+7,5,"Denver",2.7
+7,6,"Denver",11.5
+7,7,"Denver",26.4
+7,8,"Denver",44.9
+7,9,"Denver",64.4
+7,10,"Denver",64.8
+7,11,"Denver",74.8
+7,12,"Denver",84.3
+7,13,"Denver",86.9
+7,14,"Denver",85.6
+7,15,"Denver",100
+7,16,"Denver",95.1
+7,17,"Denver",91.6
+7,18,"Denver",67.6
+7,19,"Denver",39.1
+7,20,"Denver",28.6
+7,21,"Denver",22.2
+7,22,"Denver",18.5
+7,23,"Denver",20.9
+3,0,"Boston",5.3
+3,1,"Boston",1.4
+3,2,"Boston",0
+3,3,"Boston",0.3
+3,4,"Boston",4.2
+3,5,"Boston",16.7
+3,6,"Boston",51.4
+3,7,"Boston",84.8
+3,8,"Boston",79.4
+3,9,"Boston",66.4
+3,10,"Boston",58
+3,11,"Boston",65.6
+3,12,"Boston",76.7
+3,13,"Boston",81.3
+3,14,"Boston",86.5
+3,15,"Boston",100
+3,16,"Boston",94.2
+3,17,"Boston",75.9
+3,18,"Boston",51
+3,19,"Boston",40.3
+3,20,"Boston",31.4
+3,21,"Boston",25.2
+3,22,"Boston",18.7
+3,23,"Boston",13.8
+4,0,"Boston",10.9
+4,1,"Boston",7
+4,2,"Boston",2.8
+4,3,"Boston",0.1
+4,4,"Boston",0
+4,5,"Boston",2.1
+4,6,"Boston",9.2
+4,7,"Boston",19.4
+4,8,"Boston",28.2
+4,9,"Boston",43
+4,10,"Boston",53.6
+4,11,"Boston",77
+4,12,"Boston",100
+4,13,"Boston",94.3
+4,14,"Boston",62
+4,15,"Boston",57
+4,16,"Boston",63.6
+4,17,"Boston",69.9
+4,18,"Boston",64.4
+4,19,"Boston",57.8
+4,20,"Boston",52.8
+4,21,"Boston",38.9
+4,22,"Boston",26.7
+4,23,"Boston",18.4
+5,0,"Boston",9.8
+5,1,"Boston",3.4
+5,2,"Boston",1.4
+5,3,"Boston",0
+5,4,"Boston",1.5
+5,5,"Boston",8.7
+5,6,"Boston",26.3
+5,7,"Boston",43.8
+5,8,"Boston",52.1
+5,9,"Boston",63.6
+5,10,"Boston",67.7
+5,11,"Boston",79.7
+5,12,"Boston",86.2
+5,13,"Boston",87.7
+5,14,"Boston",92.8
+5,15,"Boston",100
+5,16,"Boston",97.8
+5,17,"Boston",87.5
+5,18,"Boston",65.6
+5,19,"Boston",50.5
+5,20,"Boston",39.1
+5,21,"Boston",32.4
+5,22,"Boston",27.4
+5,23,"Boston",20.3
+6,0,"Boston",13.6
+6,1,"Boston",8.1
+6,2,"Boston",4.6
+6,3,"Boston",0.6
+6,4,"Boston",0
+6,5,"Boston",3.4
+6,6,"Boston",16.8
+6,7,"Boston",32.5
+6,8,"Boston",47.1
+6,9,"Boston",64
+6,10,"Boston",70.5
+6,11,"Boston",83.3
+6,12,"Boston",89.8
+6,13,"Boston",89.4
+6,14,"Boston",90.2
+6,15,"Boston",99.2
+6,16,"Boston",100
+6,17,"Boston",93.8
+6,18,"Boston",75.2
+6,19,"Boston",59.8
+6,20,"Boston",47.8
+6,21,"Boston",39.3
+6,22,"Boston",32.9
+6,23,"Boston",24.4
+7,0,"Boston",16.1
+7,1,"Boston",11.6
+7,2,"Boston",6.5
+7,3,"Boston",1.3
+7,4,"Boston",0
+7,5,"Boston",1.9
+7,6,"Boston",10.2
+7,7,"Boston",21.3
+7,8,"Boston",35.9
+7,9,"Boston",55
+7,10,"Boston",62.8
+7,11,"Boston",76.9
+7,12,"Boston",88.5
+7,13,"Boston",92
+7,14,"Boston",90.3
+7,15,"Boston",100
+7,16,"Boston",95.6
+7,17,"Boston",74.7
+7,18,"Boston",54.9
+7,19,"Boston",43.2
+7,20,"Boston",37.6
+7,21,"Boston",23.8
+7,22,"Boston",15.8
+7,23,"Boston",8.7
+3,0,"Orlando",7.1
+3,1,"Orlando",2.2
+3,2,"Orlando",0.2
+3,3,"Orlando",0
+3,4,"Orlando",3
+3,5,"Orlando",9.7
+3,6,"Orlando",32.7
+3,7,"Orlando",64.2
+3,8,"Orlando",72.5
+3,9,"Orlando",75.8
+3,10,"Orlando",73.4
+3,11,"Orlando",76.1
+3,12,"Orlando",79.4
+3,13,"Orlando",81.6
+3,14,"Orlando",82.4
+3,15,"Orlando",97.2
+3,16,"Orlando",100
+3,17,"Orlando",95.2
+3,18,"Orlando",79.1
+3,19,"Orlando",62.1
+3,20,"Orlando",47.8
+3,21,"Orlando",41
+3,22,"Orlando",33.9
+3,23,"Orlando",24.2
+4,0,"Orlando",20.1
+4,1,"Orlando",9.1
+4,2,"Orlando",4.7
+4,3,"Orlando",0.6
+4,4,"Orlando",0
+4,5,"Orlando",2.9
+4,6,"Orlando",13.5
+4,7,"Orlando",28.3
+4,8,"Orlando",45.6
+4,9,"Orlando",68.6
+4,10,"Orlando",79.3
+4,11,"Orlando",93
+4,12,"Orlando",100
+4,13,"Orlando",95.5
+4,14,"Orlando",87.8
+4,15,"Orlando",91.5
+4,16,"Orlando",90.8
+4,17,"Orlando",91.3
+4,18,"Orlando",86.3
+4,19,"Orlando",77.4
+4,20,"Orlando",68
+4,21,"Orlando",57.9
+4,22,"Orlando",44.1
+4,23,"Orlando",30.9
+5,0,"Orlando",13
+5,1,"Orlando",5.2
+5,2,"Orlando",1
+5,3,"Orlando",0
+5,4,"Orlando",1.5
+5,5,"Orlando",6.4
+5,6,"Orlando",21.1
+5,7,"Orlando",43.5
+5,8,"Orlando",59.1
+5,9,"Orlando",75.8
+5,10,"Orlando",80.2
+5,11,"Orlando",89.1
+5,12,"Orlando",91.5
+5,13,"Orlando",92
+5,14,"Orlando",91.2
+5,15,"Orlando",100
+5,16,"Orlando",98.6
+5,17,"Orlando",97.9
+5,18,"Orlando",85.3
+5,19,"Orlando",68.5
+5,20,"Orlando",53.7
+5,21,"Orlando",45.2
+5,22,"Orlando",40.4
+5,23,"Orlando",28.7
+6,0,"Orlando",17.3
+6,1,"Orlando",6.2
+6,2,"Orlando",2.1
+6,3,"Orlando",0
+6,4,"Orlando",1.2
+6,5,"Orlando",5.2
+6,6,"Orlando",17.1
+6,7,"Orlando",36.3
+6,8,"Orlando",58.7
+6,9,"Orlando",80.3
+6,10,"Orlando",89.9
+6,11,"Orlando",99.4
+6,12,"Orlando",97.8
+6,13,"Orlando",94.1
+6,14,"Orlando",90.9
+6,15,"Orlando",98
+6,16,"Orlando",100
+6,17,"Orlando",98
+6,18,"Orlando",85.2
+6,19,"Orlando",74.7
+6,20,"Orlando",59.8
+6,21,"Orlando",47.9
+6,22,"Orlando",40.7
+6,23,"Orlando",28.5
+7,0,"Orlando",16.1
+7,1,"Orlando",5.7
+7,2,"Orlando",2.6
+7,3,"Orlando",0
+7,4,"Orlando",0.7
+7,5,"Orlando",2.9
+7,6,"Orlando",11.5
+7,7,"Orlando",26
+7,8,"Orlando",44.1
+7,9,"Orlando",66.4
+7,10,"Orlando",76.6
+7,11,"Orlando",91.3
+7,12,"Orlando",95.6
+7,13,"Orlando",99.9
+7,14,"Orlando",95.1
+7,15,"Orlando",100
+7,16,"Orlando",97.8
+7,17,"Orlando",94.6
+7,18,"Orlando",77.8
+7,19,"Orlando",60.6
+7,20,"Orlando",47.6
+7,21,"Orlando",36.3
+7,22,"Orlando",24.3
+7,23,"Orlando",11.9
+3,0,"Houston",4.1
+3,1,"Houston",0.9
+3,2,"Houston",0
+3,3,"Houston",0
+3,4,"Houston",2.8
+3,5,"Houston",11.9
+3,6,"Houston",39.7
+3,7,"Houston",67
+3,8,"Houston",70.4
+3,9,"Houston",71.2
+3,10,"Houston",66.4
+3,11,"Houston",72.8
+3,12,"Houston",79.2
+3,13,"Houston",81.9
+3,14,"Houston",87.1
+3,15,"Houston",100
+3,16,"Houston",95.4
+3,17,"Houston",78.5
+3,18,"Houston",71.3
+3,19,"Houston",51.2
+3,20,"Houston",38.3
+3,21,"Houston",30.8
+3,22,"Houston",22.4
+3,23,"Houston",14.2
+4,0,"Houston",13.5
+4,1,"Houston",5.8
+4,2,"Houston",3.5
+4,3,"Houston",0
+4,4,"Houston",0
+4,5,"Houston",3.4
+4,6,"Houston",15.7
+4,7,"Houston",34
+4,8,"Houston",49
+4,9,"Houston",64.3
+4,10,"Houston",75.8
+4,11,"Houston",95.2
+4,12,"Houston",100
+4,13,"Houston",90.8
+4,14,"Houston",81.9
+4,15,"Houston",90
+4,16,"Houston",95.1
+4,17,"Houston",91.5
+4,18,"Houston",90.5
+4,19,"Houston",69.2
+4,20,"Houston",55.4
+4,21,"Houston",44.9
+4,22,"Houston",35.6
+4,23,"Houston",24.5
+5,0,"Houston",12.1
+5,1,"Houston",4.9
+5,2,"Houston",1.7
+5,3,"Houston",0
+5,4,"Houston",1
+5,5,"Houston",5.5
+5,6,"Houston",19.6
+5,7,"Houston",39.7
+5,8,"Houston",53.8
+5,9,"Houston",69.2
+5,10,"Houston",70.9
+5,11,"Houston",81.9
+5,12,"Houston",88.6
+5,13,"Houston",90.3
+5,14,"Houston",88.3
+5,15,"Houston",100
+5,16,"Houston",97.8
+5,17,"Houston",86.9
+5,18,"Houston",88.1
+5,19,"Houston",64.2
+5,20,"Houston",48
+5,21,"Houston",39.5
+5,22,"Houston",31.8
+5,23,"Houston",21.5
+6,0,"Houston",11.4
+6,1,"Houston",5.3
+6,2,"Houston",4.2
+6,3,"Houston",0.5
+6,4,"Houston",0
+6,5,"Houston",3.4
+6,6,"Houston",13.7
+6,7,"Houston",31.2
+6,8,"Houston",49.2
+6,9,"Houston",69
+6,10,"Houston",71.3
+6,11,"Houston",80.9
+6,12,"Houston",86.8
+6,13,"Houston",88.2
+6,14,"Houston",86
+6,15,"Houston",98.8
+6,16,"Houston",100
+6,17,"Houston",91.5
+6,18,"Houston",94.7
+6,19,"Houston",69.6
+6,20,"Houston",50.9
+6,21,"Houston",42.2
+6,22,"Houston",33
+6,23,"Houston",23.6
+7,0,"Houston",14.4
+7,1,"Houston",7.7
+7,2,"Houston",7
+7,3,"Houston",1.8
+7,4,"Houston",0
+7,5,"Houston",1.9
+7,6,"Houston",8.5
+7,7,"Houston",20.4
+7,8,"Houston",36.4
+7,9,"Houston",56.8
+7,10,"Houston",59.7
+7,11,"Houston",67.7
+7,12,"Houston",76.5
+7,13,"Houston",80
+7,14,"Houston",82.3
+7,15,"Houston",99.5
+7,16,"Houston",100
+7,17,"Houston",82.7
+7,18,"Houston",76.6
+7,19,"Houston",52.3
+7,20,"Houston",37
+7,21,"Houston",26
+7,22,"Houston",16.4
+7,23,"Houston",9.2
+3,0,"Minneapolis",3.4
+3,1,"Minneapolis",1
+3,2,"Minneapolis",0
+3,3,"Minneapolis",0.1
+3,4,"Minneapolis",2.6
+3,5,"Minneapolis",11.1
+3,6,"Minneapolis",43.1
+3,7,"Minneapolis",78.4
+3,8,"Minneapolis",69.3
+3,9,"Minneapolis",64.2
+3,10,"Minneapolis",56.3
+3,11,"Minneapolis",60
+3,12,"Minneapolis",64.9
+3,13,"Minneapolis",63.4
+3,14,"Minneapolis",70.4
+3,15,"Minneapolis",94.1
+3,16,"Minneapolis",100
+3,17,"Minneapolis",80.3
+3,18,"Minneapolis",62.1
+3,19,"Minneapolis",40
+3,20,"Minneapolis",30
+3,21,"Minneapolis",24.6
+3,22,"Minneapolis",16.3
+3,23,"Minneapolis",11.5
+4,0,"Minneapolis",10.9
+4,1,"Minneapolis",6.6
+4,2,"Minneapolis",3.9
+4,3,"Minneapolis",0.4
+4,4,"Minneapolis",0
+4,5,"Minneapolis",1.6
+4,6,"Minneapolis",9.1
+4,7,"Minneapolis",19.4
+4,8,"Minneapolis",31.1
+4,9,"Minneapolis",52.6
+4,10,"Minneapolis",72.4
+4,11,"Minneapolis",100
+4,12,"Minneapolis",85.1
+4,13,"Minneapolis",64.5
+4,14,"Minneapolis",56.9
+4,15,"Minneapolis",79.6
+4,16,"Minneapolis",81.9
+4,17,"Minneapolis",73.1
+4,18,"Minneapolis",68
+4,19,"Minneapolis",56.1
+4,20,"Minneapolis",44.8
+4,21,"Minneapolis",33.9
+4,22,"Minneapolis",22.7
+4,23,"Minneapolis",13.6
+5,0,"Minneapolis",7.5
+5,1,"Minneapolis",2.9
+5,2,"Minneapolis",0.8
+5,3,"Minneapolis",0
+5,4,"Minneapolis",2.2
+5,5,"Minneapolis",7.6
+5,6,"Minneapolis",23.8
+5,7,"Minneapolis",46
+5,8,"Minneapolis",58.3
+5,9,"Minneapolis",74.5
+5,10,"Minneapolis",73
+5,11,"Minneapolis",83.9
+5,12,"Minneapolis",89.3
+5,13,"Minneapolis",91.2
+5,14,"Minneapolis",89.8
+5,15,"Minneapolis",100
+5,16,"Minneapolis",98.4
+5,17,"Minneapolis",84.3
+5,18,"Minneapolis",76.3
+5,19,"Minneapolis",54.5
+5,20,"Minneapolis",40.6
+5,21,"Minneapolis",33.7
+5,22,"Minneapolis",27.1
+5,23,"Minneapolis",17.5
+6,0,"Minneapolis",10.3
+6,1,"Minneapolis",5.7
+6,2,"Minneapolis",4.5
+6,3,"Minneapolis",0.5
+6,4,"Minneapolis",0
+6,5,"Minneapolis",1.8
+6,6,"Minneapolis",10
+6,7,"Minneapolis",24.9
+6,8,"Minneapolis",45.3
+6,9,"Minneapolis",67.9
+6,10,"Minneapolis",69.5
+6,11,"Minneapolis",81.8
+6,12,"Minneapolis",87.2
+6,13,"Minneapolis",86.7
+6,14,"Minneapolis",84.8
+6,15,"Minneapolis",100
+6,16,"Minneapolis",99.1
+6,17,"Minneapolis",83.1
+6,18,"Minneapolis",78.6
+6,19,"Minneapolis",55.5
+6,20,"Minneapolis",42.9
+6,21,"Minneapolis",36.4
+6,22,"Minneapolis",27.6
+6,23,"Minneapolis",19.3
+7,0,"Minneapolis",14.5
+7,1,"Minneapolis",8.7
+7,2,"Minneapolis",6.8
+7,3,"Minneapolis",1.4
+7,4,"Minneapolis",0
+7,5,"Minneapolis",1
+7,6,"Minneapolis",6.5
+7,7,"Minneapolis",16.4
+7,8,"Minneapolis",32.8
+7,9,"Minneapolis",53.6
+7,10,"Minneapolis",59
+7,11,"Minneapolis",71.2
+7,12,"Minneapolis",84.5
+7,13,"Minneapolis",85.7
+7,14,"Minneapolis",84.3
+7,15,"Minneapolis",100
+7,16,"Minneapolis",96.1
+7,17,"Minneapolis",75.4
+7,18,"Minneapolis",64.3
+7,19,"Minneapolis",41.7
+7,20,"Minneapolis",28.6
+7,21,"Minneapolis",20.2
+7,22,"Minneapolis",11.9
+7,23,"Minneapolis",5.9
+3,0,"Chicago",4
+3,1,"Chicago",1
+3,2,"Chicago",0
+3,3,"Chicago",0.6
+3,4,"Chicago",4.7
+3,5,"Chicago",16.1
+3,6,"Chicago",42.8
+3,7,"Chicago",68.8
+3,8,"Chicago",68.1
+3,9,"Chicago",62.7
+3,10,"Chicago",56.9
+3,11,"Chicago",63.9
+3,12,"Chicago",70.2
+3,13,"Chicago",73.2
+3,14,"Chicago",81.6
+3,15,"Chicago",98.6
+3,16,"Chicago",100
+3,17,"Chicago",83.5
+3,18,"Chicago",70.1
+3,19,"Chicago",50.3
+3,20,"Chicago",37.7
+3,21,"Chicago",30.1
+3,22,"Chicago",22.6
+3,23,"Chicago",15.6
+4,0,"Chicago",15.1
+4,1,"Chicago",8.9
+4,2,"Chicago",5.2
+4,3,"Chicago",0.4
+4,4,"Chicago",0
+4,5,"Chicago",2.7
+4,6,"Chicago",12.8
+4,7,"Chicago",24.6
+4,8,"Chicago",34.8
+4,9,"Chicago",48.6
+4,10,"Chicago",54.1
+4,11,"Chicago",69.4
+4,12,"Chicago",82.2
+4,13,"Chicago",89.9
+4,14,"Chicago",94
+4,15,"Chicago",100
+4,16,"Chicago",88.5
+4,17,"Chicago",70.3
+4,18,"Chicago",67.7
+4,19,"Chicago",62
+4,20,"Chicago",59.3
+4,21,"Chicago",51.8
+4,22,"Chicago",39.6
+4,23,"Chicago",25.4
+5,0,"Chicago",13.1
+5,1,"Chicago",5.7
+5,2,"Chicago",1.4
+5,3,"Chicago",0
+5,4,"Chicago",2.1
+5,5,"Chicago",9.7
+5,6,"Chicago",26.4
+5,7,"Chicago",45.5
+5,8,"Chicago",53.3
+5,9,"Chicago",64.7
+5,10,"Chicago",65.1
+5,11,"Chicago",74.2
+5,12,"Chicago",80.7
+5,13,"Chicago",85
+5,14,"Chicago",87.8
+5,15,"Chicago",100
+5,16,"Chicago",98.6
+5,17,"Chicago",85.6
+5,18,"Chicago",79.6
+5,19,"Chicago",58.2
+5,20,"Chicago",45.2
+5,21,"Chicago",38.4
+5,22,"Chicago",32.9
+5,23,"Chicago",23.1
+6,0,"Chicago",11.3
+6,1,"Chicago",5.6
+6,2,"Chicago",2.5
+6,3,"Chicago",0
+6,4,"Chicago",0.4
+6,5,"Chicago",3
+6,6,"Chicago",13.9
+6,7,"Chicago",31
+6,8,"Chicago",45.6
+6,9,"Chicago",61.8
+6,10,"Chicago",63.7
+6,11,"Chicago",71.5
+6,12,"Chicago",77.2
+6,13,"Chicago",79.9
+6,14,"Chicago",81.4
+6,15,"Chicago",95.9
+6,16,"Chicago",100
+6,17,"Chicago",88.4
+6,18,"Chicago",85.1
+6,19,"Chicago",60.8
+6,20,"Chicago",47.4
+6,21,"Chicago",40.4
+6,22,"Chicago",32.7
+6,23,"Chicago",24.6
+7,0,"Chicago",15.5
+7,1,"Chicago",8.5
+7,2,"Chicago",4.3
+7,3,"Chicago",1.3
+7,4,"Chicago",0
+7,5,"Chicago",1.4
+7,6,"Chicago",8.6
+7,7,"Chicago",19.2
+7,8,"Chicago",32.3
+7,9,"Chicago",49.6
+7,10,"Chicago",54.4
+7,11,"Chicago",65
+7,12,"Chicago",73.8
+7,13,"Chicago",79.2
+7,14,"Chicago",84.6
+7,15,"Chicago",100
+7,16,"Chicago",96.9
+7,17,"Chicago",77.4
+7,18,"Chicago",66.1
+7,19,"Chicago",46.5
+7,20,"Chicago",32.9
+7,21,"Chicago",23
+7,22,"Chicago",13.8
+7,23,"Chicago",6.7
+3,0,"Charlotte",3.5
+3,1,"Charlotte",1.4
+3,2,"Charlotte",0.5
+3,3,"Charlotte",0
+3,4,"Charlotte",2.2
+3,5,"Charlotte",8.6
+3,6,"Charlotte",35.3
+3,7,"Charlotte",70.1
+3,8,"Charlotte",68.5
+3,9,"Charlotte",66.4
+3,10,"Charlotte",63.7
+3,11,"Charlotte",70.4
+3,12,"Charlotte",79.6
+3,13,"Charlotte",83.9
+3,14,"Charlotte",85.4
+3,15,"Charlotte",99.1
+3,16,"Charlotte",100
+3,17,"Charlotte",89.3
+3,18,"Charlotte",66.6
+3,19,"Charlotte",48.4
+3,20,"Charlotte",36.9
+3,21,"Charlotte",28.5
+3,22,"Charlotte",21
+3,23,"Charlotte",13.6
+4,0,"Charlotte",14.8
+4,1,"Charlotte",6.1
+4,2,"Charlotte",3.2
+4,3,"Charlotte",0
+4,4,"Charlotte",0.3
+4,5,"Charlotte",2.7
+4,6,"Charlotte",13.1
+4,7,"Charlotte",28.9
+4,8,"Charlotte",41.6
+4,9,"Charlotte",60
+4,10,"Charlotte",70.1
+4,11,"Charlotte",93.3
+4,12,"Charlotte",100
+4,13,"Charlotte",84.9
+4,14,"Charlotte",75.2
+4,15,"Charlotte",84.2
+4,16,"Charlotte",82.5
+4,17,"Charlotte",77.7
+4,18,"Charlotte",64.9
+4,19,"Charlotte",53
+4,20,"Charlotte",49.9
+4,21,"Charlotte",37.6
+4,22,"Charlotte",27.2
+4,23,"Charlotte",16.5
+5,0,"Charlotte",9.1
+5,1,"Charlotte",3.2
+5,2,"Charlotte",0.8
+5,3,"Charlotte",0
+5,4,"Charlotte",1.1
+5,5,"Charlotte",5.1
+5,6,"Charlotte",20.2
+5,7,"Charlotte",42.9
+5,8,"Charlotte",55.5
+5,9,"Charlotte",68.9
+5,10,"Charlotte",71.8
+5,11,"Charlotte",80.6
+5,12,"Charlotte",88.2
+5,13,"Charlotte",90.5
+5,14,"Charlotte",90.6
+5,15,"Charlotte",100
+5,16,"Charlotte",97.9
+5,17,"Charlotte",94.4
+5,18,"Charlotte",76.7
+5,19,"Charlotte",56.8
+5,20,"Charlotte",41.7
+5,21,"Charlotte",34.7
+5,22,"Charlotte",30.5
+5,23,"Charlotte",20
+6,0,"Charlotte",8.5
+6,1,"Charlotte",4.3
+6,2,"Charlotte",3.3
+6,3,"Charlotte",0.3
+6,4,"Charlotte",0
+6,5,"Charlotte",2.8
+6,6,"Charlotte",12.6
+6,7,"Charlotte",27.7
+6,8,"Charlotte",43.8
+6,9,"Charlotte",62.4
+6,10,"Charlotte",67.5
+6,11,"Charlotte",80.3
+6,12,"Charlotte",88
+6,13,"Charlotte",87.7
+6,14,"Charlotte",85.5
+6,15,"Charlotte",96.5
+6,16,"Charlotte",100
+6,17,"Charlotte",93.8
+6,18,"Charlotte",76.5
+6,19,"Charlotte",60.9
+6,20,"Charlotte",43.7
+6,21,"Charlotte",34.5
+6,22,"Charlotte",28.8
+6,23,"Charlotte",19.1
+7,0,"Charlotte",10.8
+7,1,"Charlotte",5
+7,2,"Charlotte",4.8
+7,3,"Charlotte",0.8
+7,4,"Charlotte",0
+7,5,"Charlotte",2.1
+7,6,"Charlotte",9.5
+7,7,"Charlotte",20.9
+7,8,"Charlotte",34.3
+7,9,"Charlotte",53.4
+7,10,"Charlotte",55.6
+7,11,"Charlotte",67
+7,12,"Charlotte",82.2
+7,13,"Charlotte",88.8
+7,14,"Charlotte",88.5
+7,15,"Charlotte",100
+7,16,"Charlotte",97.1
+7,17,"Charlotte",84.2
+7,18,"Charlotte",62.2
+7,19,"Charlotte",46
+7,20,"Charlotte",35.4
+7,21,"Charlotte",24.7
+7,22,"Charlotte",15.8
+7,23,"Charlotte",8.2
+3,0,"Sacramento",4.1
+3,1,"Sacramento",1.3
+3,2,"Sacramento",0
+3,3,"Sacramento",0.8
+3,4,"Sacramento",4.2
+3,5,"Sacramento",9.9
+3,6,"Sacramento",33.9
+3,7,"Sacramento",64.3
+3,8,"Sacramento",63.5
+3,9,"Sacramento",65
+3,10,"Sacramento",61
+3,11,"Sacramento",67.4
+3,12,"Sacramento",76.7
+3,13,"Sacramento",81.4
+3,14,"Sacramento",85.5
+3,15,"Sacramento",95
+3,16,"Sacramento",100
+3,17,"Sacramento",90.1
+3,18,"Sacramento",70.1
+3,19,"Sacramento",47
+3,20,"Sacramento",36.3
+3,21,"Sacramento",30.2
+3,22,"Sacramento",25.3
+3,23,"Sacramento",15.9
+4,0,"Sacramento",11.7
+4,1,"Sacramento",5.9
+4,2,"Sacramento",2.4
+4,3,"Sacramento",0
+4,4,"Sacramento",0.6
+4,5,"Sacramento",1.8
+4,6,"Sacramento",11.1
+4,7,"Sacramento",26.9
+4,8,"Sacramento",43.5
+4,9,"Sacramento",62.5
+4,10,"Sacramento",66.3
+4,11,"Sacramento",85.4
+4,12,"Sacramento",99
+4,13,"Sacramento",100
+4,14,"Sacramento",90.3
+4,15,"Sacramento",83.8
+4,16,"Sacramento",73.6
+4,17,"Sacramento",69.3
+4,18,"Sacramento",62.8
+4,19,"Sacramento",52.9
+4,20,"Sacramento",46.6
+4,21,"Sacramento",39.2
+4,22,"Sacramento",26.5
+4,23,"Sacramento",15.1
+5,0,"Sacramento",8.6
+5,1,"Sacramento",3.4
+5,2,"Sacramento",0.9
+5,3,"Sacramento",0
+5,4,"Sacramento",1.5
+5,5,"Sacramento",5.1
+5,6,"Sacramento",16.3
+5,7,"Sacramento",33.7
+5,8,"Sacramento",47.5
+5,9,"Sacramento",67.3
+5,10,"Sacramento",73.1
+5,11,"Sacramento",87.4
+5,12,"Sacramento",96.4
+5,13,"Sacramento",95.7
+5,14,"Sacramento",94.6
+5,15,"Sacramento",96.1
+5,16,"Sacramento",100
+5,17,"Sacramento",91.3
+5,18,"Sacramento",76
+5,19,"Sacramento",48.7
+5,20,"Sacramento",35.1
+5,21,"Sacramento",28.9
+5,22,"Sacramento",25.9
+5,23,"Sacramento",15.8
+6,0,"Sacramento",8.7
+6,1,"Sacramento",6.8
+6,2,"Sacramento",3.6
+6,3,"Sacramento",0.3
+6,4,"Sacramento",0
+6,5,"Sacramento",2.1
+6,6,"Sacramento",9.6
+6,7,"Sacramento",26.1
+6,8,"Sacramento",44.2
+6,9,"Sacramento",67.1
+6,10,"Sacramento",74.7
+6,11,"Sacramento",89.6
+6,12,"Sacramento",96
+6,13,"Sacramento",100
+6,14,"Sacramento",94
+6,15,"Sacramento",92.8
+6,16,"Sacramento",95.9
+6,17,"Sacramento",88
+6,18,"Sacramento",73.9
+6,19,"Sacramento",51.4
+6,20,"Sacramento",39.3
+6,21,"Sacramento",35.3
+6,22,"Sacramento",28.2
+6,23,"Sacramento",18.6
+7,0,"Sacramento",11.1
+7,1,"Sacramento",7
+7,2,"Sacramento",3.3
+7,3,"Sacramento",0.4
+7,4,"Sacramento",0
+7,5,"Sacramento",1.2
+7,6,"Sacramento",8.8
+7,7,"Sacramento",21.7
+7,8,"Sacramento",37.1
+7,9,"Sacramento",59.4
+7,10,"Sacramento",61.2
+7,11,"Sacramento",74.2
+7,12,"Sacramento",86.9
+7,13,"Sacramento",91.4
+7,14,"Sacramento",91.9
+7,15,"Sacramento",95.8
+7,16,"Sacramento",100
+7,17,"Sacramento",90
+7,18,"Sacramento",70.6
+7,19,"Sacramento",49.5
+7,20,"Sacramento",35.7
+7,21,"Sacramento",24.2
+7,22,"Sacramento",14.3
+7,23,"Sacramento",7.1
+3,0,"Phoenix",2.8
+3,1,"Phoenix",0.9
+3,2,"Phoenix",0
+3,3,"Phoenix",0
+3,4,"Phoenix",4.1
+3,5,"Phoenix",14.6
+3,6,"Phoenix",49.1
+3,7,"Phoenix",86.9
+3,8,"Phoenix",81.6
+3,9,"Phoenix",77
+3,10,"Phoenix",68.6
+3,11,"Phoenix",72.6
+3,12,"Phoenix",76.2
+3,13,"Phoenix",79.6
+3,14,"Phoenix",85.7
+3,15,"Phoenix",100
+3,16,"Phoenix",89.4
+3,17,"Phoenix",86.3
+3,18,"Phoenix",69.3
+3,19,"Phoenix",48.9
+3,20,"Phoenix",36.2
+3,21,"Phoenix",27.7
+3,22,"Phoenix",22.2
+3,23,"Phoenix",15.6
+4,0,"Phoenix",16.5
+4,1,"Phoenix",9.4
+4,2,"Phoenix",5.7
+4,3,"Phoenix",1
+4,4,"Phoenix",0
+4,5,"Phoenix",3.9
+4,6,"Phoenix",17.5
+4,7,"Phoenix",36.1
+4,8,"Phoenix",48.8
+4,9,"Phoenix",66.6
+4,10,"Phoenix",70.9
+4,11,"Phoenix",85.8
+4,12,"Phoenix",100
+4,13,"Phoenix",99.7
+4,14,"Phoenix",89.6
+4,15,"Phoenix",88.4
+4,16,"Phoenix",78.2
+4,17,"Phoenix",83.8
+4,18,"Phoenix",88.1
+4,19,"Phoenix",63.3
+4,20,"Phoenix",52.6
+4,21,"Phoenix",40.9
+4,22,"Phoenix",28.1
+4,23,"Phoenix",16.4
+5,0,"Phoenix",8
+5,1,"Phoenix",2.8
+5,2,"Phoenix",0.6
+5,3,"Phoenix",0
+5,4,"Phoenix",2.6
+5,5,"Phoenix",9.6
+5,6,"Phoenix",29.8
+5,7,"Phoenix",55.7
+5,8,"Phoenix",67.8
+5,9,"Phoenix",84.2
+5,10,"Phoenix",79.9
+5,11,"Phoenix",89
+5,12,"Phoenix",93.9
+5,13,"Phoenix",91.8
+5,14,"Phoenix",88.7
+5,15,"Phoenix",100
+5,16,"Phoenix",92.1
+5,17,"Phoenix",98.5
+5,18,"Phoenix",89.3
+5,19,"Phoenix",59.7
+5,20,"Phoenix",44.7
+5,21,"Phoenix",37.6
+5,22,"Phoenix",30.1
+5,23,"Phoenix",21.2
+6,0,"Phoenix",10.4
+6,1,"Phoenix",4.8
+6,2,"Phoenix",3.5
+6,3,"Phoenix",0
+6,4,"Phoenix",0.6
+6,5,"Phoenix",4.3
+6,6,"Phoenix",19.8
+6,7,"Phoenix",42.4
+6,8,"Phoenix",61.6
+6,9,"Phoenix",81.7
+6,10,"Phoenix",79.2
+6,11,"Phoenix",84.9
+6,12,"Phoenix",91.2
+6,13,"Phoenix",89.3
+6,14,"Phoenix",86.9
+6,15,"Phoenix",100
+6,16,"Phoenix",92.9
+6,17,"Phoenix",98
+6,18,"Phoenix",85.5
+6,19,"Phoenix",59.7
+6,20,"Phoenix",45.8
+6,21,"Phoenix",37.4
+6,22,"Phoenix",31.2
+6,23,"Phoenix",21.3
+7,0,"Phoenix",14.9
+7,1,"Phoenix",7.7
+7,2,"Phoenix",5.1
+7,3,"Phoenix",0.1
+7,4,"Phoenix",0
+7,5,"Phoenix",2.9
+7,6,"Phoenix",12.8
+7,7,"Phoenix",29.3
+7,8,"Phoenix",48
+7,9,"Phoenix",68.1
+7,10,"Phoenix",67.9
+7,11,"Phoenix",77.3
+7,12,"Phoenix",85.9
+7,13,"Phoenix",86.7
+7,14,"Phoenix",88
+7,15,"Phoenix",100
+7,16,"Phoenix",90.7
+7,17,"Phoenix",87.5
+7,18,"Phoenix",75.1
+7,19,"Phoenix",51.3
+7,20,"Phoenix",36.1
+7,21,"Phoenix",25.3
+7,22,"Phoenix",16.2
+7,23,"Phoenix",9.3
+3,0,"Pittsburgh",5.2
+3,1,"Pittsburgh",0.6
+3,2,"Pittsburgh",0
+3,3,"Pittsburgh",0
+3,4,"Pittsburgh",2
+3,5,"Pittsburgh",8.8
+3,6,"Pittsburgh",40
+3,7,"Pittsburgh",77.3
+3,8,"Pittsburgh",76.1
+3,9,"Pittsburgh",72.4
+3,10,"Pittsburgh",62.7
+3,11,"Pittsburgh",65.6
+3,12,"Pittsburgh",70.1
+3,13,"Pittsburgh",72.8
+3,14,"Pittsburgh",76.2
+3,15,"Pittsburgh",97.5
+3,16,"Pittsburgh",100
+3,17,"Pittsburgh",86.8
+3,18,"Pittsburgh",61.9
+3,19,"Pittsburgh",45.4
+3,20,"Pittsburgh",35.3
+3,21,"Pittsburgh",29.1
+3,22,"Pittsburgh",24
+3,23,"Pittsburgh",16.3
+4,0,"Pittsburgh",20.2
+4,1,"Pittsburgh",12.2
+4,2,"Pittsburgh",9.1
+4,3,"Pittsburgh",3.9
+4,4,"Pittsburgh",0
+4,5,"Pittsburgh",1
+4,6,"Pittsburgh",10.7
+4,7,"Pittsburgh",25.2
+4,8,"Pittsburgh",37.9
+4,9,"Pittsburgh",57.4
+4,10,"Pittsburgh",61.4
+4,11,"Pittsburgh",77.1
+4,12,"Pittsburgh",83.7
+4,13,"Pittsburgh",77.6
+4,14,"Pittsburgh",78.9
+4,15,"Pittsburgh",100
+4,16,"Pittsburgh",93.1
+4,17,"Pittsburgh",76.7
+4,18,"Pittsburgh",64.4
+4,19,"Pittsburgh",59.8
+4,20,"Pittsburgh",58
+4,21,"Pittsburgh",39.1
+4,22,"Pittsburgh",29.7
+4,23,"Pittsburgh",17.6
+5,0,"Pittsburgh",8.5
+5,1,"Pittsburgh",3.8
+5,2,"Pittsburgh",1.6
+5,3,"Pittsburgh",0
+5,4,"Pittsburgh",0.9
+5,5,"Pittsburgh",7.2
+5,6,"Pittsburgh",25.1
+5,7,"Pittsburgh",46.3
+5,8,"Pittsburgh",55.4
+5,9,"Pittsburgh",69.7
+5,10,"Pittsburgh",67.5
+5,11,"Pittsburgh",74.6
+5,12,"Pittsburgh",79.2
+5,13,"Pittsburgh",82.3
+5,14,"Pittsburgh",84.2
+5,15,"Pittsburgh",100
+5,16,"Pittsburgh",97.3
+5,17,"Pittsburgh",87.4
+5,18,"Pittsburgh",67.2
+5,19,"Pittsburgh",49
+5,20,"Pittsburgh",40
+5,21,"Pittsburgh",36
+5,22,"Pittsburgh",25.8
+5,23,"Pittsburgh",17.8
+6,0,"Pittsburgh",9.5
+6,1,"Pittsburgh",6.1
+6,2,"Pittsburgh",4
+6,3,"Pittsburgh",0.2
+6,4,"Pittsburgh",0
+6,5,"Pittsburgh",3.2
+6,6,"Pittsburgh",12.7
+6,7,"Pittsburgh",29.8
+6,8,"Pittsburgh",48.3
+6,9,"Pittsburgh",68
+6,10,"Pittsburgh",69.2
+6,11,"Pittsburgh",82.7
+6,12,"Pittsburgh",84.4
+6,13,"Pittsburgh",83.7
+6,14,"Pittsburgh",82
+6,15,"Pittsburgh",99.1
+6,16,"Pittsburgh",100
+6,17,"Pittsburgh",95.4
+6,18,"Pittsburgh",75.1
+6,19,"Pittsburgh",56
+6,20,"Pittsburgh",43.2
+6,21,"Pittsburgh",35.3
+6,22,"Pittsburgh",31.7
+6,23,"Pittsburgh",20.9
+7,0,"Pittsburgh",11.5
+7,1,"Pittsburgh",6.9
+7,2,"Pittsburgh",5
+7,3,"Pittsburgh",0.8
+7,4,"Pittsburgh",0
+7,5,"Pittsburgh",2.1
+7,6,"Pittsburgh",9.2
+7,7,"Pittsburgh",20.1
+7,8,"Pittsburgh",35.4
+7,9,"Pittsburgh",57.4
+7,10,"Pittsburgh",61.9
+7,11,"Pittsburgh",73.4
+7,12,"Pittsburgh",84.6
+7,13,"Pittsburgh",89.7
+7,14,"Pittsburgh",87.3
+7,15,"Pittsburgh",100
+7,16,"Pittsburgh",95.3
+7,17,"Pittsburgh",82
+7,18,"Pittsburgh",61
+7,19,"Pittsburgh",45.3
+7,20,"Pittsburgh",34.7
+7,21,"Pittsburgh",23.4
+7,22,"Pittsburgh",15.7
+7,23,"Pittsburgh",9.1
+3,0,"Washington D.C.",5
+3,1,"Washington D.C.",1.3
+3,2,"Washington D.C.",0
+3,3,"Washington D.C.",0.8
+3,4,"Washington D.C.",5.3
+3,5,"Washington D.C.",17.1
+3,6,"Washington D.C.",44
+3,7,"Washington D.C.",68.9
+3,8,"Washington D.C.",70.5
+3,9,"Washington D.C.",67
+3,10,"Washington D.C.",60.9
+3,11,"Washington D.C.",66
+3,12,"Washington D.C.",75.4
+3,13,"Washington D.C.",80.9
+3,14,"Washington D.C.",87.1
+3,15,"Washington D.C.",100
+3,16,"Washington D.C.",94.3
+3,17,"Washington D.C.",79.9
+3,18,"Washington D.C.",58.3
+3,19,"Washington D.C.",46
+3,20,"Washington D.C.",36.7
+3,21,"Washington D.C.",30.5
+3,22,"Washington D.C.",23
+3,23,"Washington D.C.",15.3
+4,0,"Washington D.C.",15.9
+4,1,"Washington D.C.",7.4
+4,2,"Washington D.C.",3
+4,3,"Washington D.C.",0
+4,4,"Washington D.C.",0.8
+4,5,"Washington D.C.",5.9
+4,6,"Washington D.C.",17.3
+4,7,"Washington D.C.",31.4
+4,8,"Washington D.C.",40.5
+4,9,"Washington D.C.",57.2
+4,10,"Washington D.C.",65
+4,11,"Washington D.C.",81.4
+4,12,"Washington D.C.",90.6
+4,13,"Washington D.C.",92.3
+4,14,"Washington D.C.",95
+4,15,"Washington D.C.",100
+4,16,"Washington D.C.",89
+4,17,"Washington D.C.",73.4
+4,18,"Washington D.C.",62.1
+4,19,"Washington D.C.",54.2
+4,20,"Washington D.C.",70.2
+4,21,"Washington D.C.",59.3
+4,22,"Washington D.C.",42
+4,23,"Washington D.C.",25
+5,0,"Washington D.C.",13.7
+5,1,"Washington D.C.",5.5
+5,2,"Washington D.C.",1.7
+5,3,"Washington D.C.",0
+5,4,"Washington D.C.",1.9
+5,5,"Washington D.C.",9
+5,6,"Washington D.C.",24
+5,7,"Washington D.C.",41.2
+5,8,"Washington D.C.",51.2
+5,9,"Washington D.C.",63
+5,10,"Washington D.C.",66.8
+5,11,"Washington D.C.",76.7
+5,12,"Washington D.C.",84.3
+5,13,"Washington D.C.",88.3
+5,14,"Washington D.C.",90.6
+5,15,"Washington D.C.",100
+5,16,"Washington D.C.",98.9
+5,17,"Washington D.C.",93.7
+5,18,"Washington D.C.",73.4
+5,19,"Washington D.C.",58.2
+5,20,"Washington D.C.",47
+5,21,"Washington D.C.",39.8
+5,22,"Washington D.C.",33.3
+5,23,"Washington D.C.",23.6
+6,0,"Washington D.C.",11
+6,1,"Washington D.C.",5.3
+6,2,"Washington D.C.",2.2
+6,3,"Washington D.C.",0.8
+6,4,"Washington D.C.",0
+6,5,"Washington D.C.",3
+6,6,"Washington D.C.",12.5
+6,7,"Washington D.C.",27.8
+6,8,"Washington D.C.",42.9
+6,9,"Washington D.C.",60.2
+6,10,"Washington D.C.",67
+6,11,"Washington D.C.",78.9
+6,12,"Washington D.C.",83.9
+6,13,"Washington D.C.",85.3
+6,14,"Washington D.C.",86.1
+6,15,"Washington D.C.",97.2
+6,16,"Washington D.C.",100
+6,17,"Washington D.C.",98.4
+6,18,"Washington D.C.",80.5
+6,19,"Washington D.C.",64.2
+6,20,"Washington D.C.",50.6
+6,21,"Washington D.C.",42
+6,22,"Washington D.C.",34.7
+6,23,"Washington D.C.",23.7
+7,0,"Washington D.C.",15.2
+7,1,"Washington D.C.",7.8
+7,2,"Washington D.C.",4.1
+7,3,"Washington D.C.",2
+7,4,"Washington D.C.",0
+7,5,"Washington D.C.",1.8
+7,6,"Washington D.C.",10.2
+7,7,"Washington D.C.",22.5
+7,8,"Washington D.C.",36.9
+7,9,"Washington D.C.",57.2
+7,10,"Washington D.C.",66.4
+7,11,"Washington D.C.",77.8
+7,12,"Washington D.C.",88.7
+7,13,"Washington D.C.",92.8
+7,14,"Washington D.C.",93.2
+7,15,"Washington D.C.",100
+7,16,"Washington D.C.",98.3
+7,17,"Washington D.C.",93.4
+7,18,"Washington D.C.",71.9
+7,19,"Washington D.C.",57.6
+7,20,"Washington D.C.",42.7
+7,21,"Washington D.C.",31.1
+7,22,"Washington D.C.",19.7
+7,23,"Washington D.C.",9.2
+3,0,"Raleigh",3.6
+3,1,"Raleigh",1.5
+3,2,"Raleigh",0.1
+3,3,"Raleigh",0
+3,4,"Raleigh",2.3
+3,5,"Raleigh",6.6
+3,6,"Raleigh",36.1
+3,7,"Raleigh",72.4
+3,8,"Raleigh",76.7
+3,9,"Raleigh",74.1
+3,10,"Raleigh",67.1
+3,11,"Raleigh",72.8
+3,12,"Raleigh",77.1
+3,13,"Raleigh",78.9
+3,14,"Raleigh",79.9
+3,15,"Raleigh",97.5
+3,16,"Raleigh",100
+3,17,"Raleigh",90.4
+3,18,"Raleigh",67.9
+3,19,"Raleigh",48.6
+3,20,"Raleigh",34.9
+3,21,"Raleigh",27.4
+3,22,"Raleigh",18.7
+3,23,"Raleigh",12.5
+4,0,"Raleigh",12.6
+4,1,"Raleigh",6
+4,2,"Raleigh",2.5
+4,3,"Raleigh",0
+4,4,"Raleigh",0.2
+4,5,"Raleigh",1.3
+4,6,"Raleigh",13.2
+4,7,"Raleigh",29.9
+4,8,"Raleigh",46.1
+4,9,"Raleigh",69.6
+4,10,"Raleigh",80.4
+4,11,"Raleigh",98.4
+4,12,"Raleigh",100
+4,13,"Raleigh",90.8
+4,14,"Raleigh",82.2
+4,15,"Raleigh",90.7
+4,16,"Raleigh",93.2
+4,17,"Raleigh",90.4
+4,18,"Raleigh",72.7
+4,19,"Raleigh",62.7
+4,20,"Raleigh",60.3
+4,21,"Raleigh",46.7
+4,22,"Raleigh",32.7
+4,23,"Raleigh",19.4
+5,0,"Raleigh",9.9
+5,1,"Raleigh",3.9
+5,2,"Raleigh",1.2
+5,3,"Raleigh",0
+5,4,"Raleigh",1.5
+5,5,"Raleigh",5.1
+5,6,"Raleigh",19.5
+5,7,"Raleigh",40.3
+5,8,"Raleigh",55.4
+5,9,"Raleigh",71.7
+5,10,"Raleigh",74.5
+5,11,"Raleigh",82
+5,12,"Raleigh",86.6
+5,13,"Raleigh",86.1
+5,14,"Raleigh",88.6
+5,15,"Raleigh",99.4
+5,16,"Raleigh",100
+5,17,"Raleigh",94.4
+5,18,"Raleigh",77.9
+5,19,"Raleigh",57.7
+5,20,"Raleigh",42.7
+5,21,"Raleigh",35.4
+5,22,"Raleigh",29.5
+5,23,"Raleigh",21.6
+6,0,"Raleigh",9.4
+6,1,"Raleigh",4.1
+6,2,"Raleigh",3
+6,3,"Raleigh",0
+6,4,"Raleigh",0
+6,5,"Raleigh",1.3
+6,6,"Raleigh",11.6
+6,7,"Raleigh",28.4
+6,8,"Raleigh",45.6
+6,9,"Raleigh",65.8
+6,10,"Raleigh",71.4
+6,11,"Raleigh",81.5
+6,12,"Raleigh",87.1
+6,13,"Raleigh",89.6
+6,14,"Raleigh",89.3
+6,15,"Raleigh",100
+6,16,"Raleigh",95.9
+6,17,"Raleigh",89.7
+6,18,"Raleigh",74.6
+6,19,"Raleigh",56.3
+6,20,"Raleigh",44.4
+6,21,"Raleigh",36.2
+6,22,"Raleigh",27.3
+6,23,"Raleigh",19.4
+7,0,"Raleigh",11.5
+7,1,"Raleigh",5.6
+7,2,"Raleigh",3.8
+7,3,"Raleigh",0.6
+7,4,"Raleigh",0
+7,5,"Raleigh",1.4
+7,6,"Raleigh",7.5
+7,7,"Raleigh",17.3
+7,8,"Raleigh",32.7
+7,9,"Raleigh",53.1
+7,10,"Raleigh",55.2
+7,11,"Raleigh",66.4
+7,12,"Raleigh",80.9
+7,13,"Raleigh",87.5
+7,14,"Raleigh",88
+7,15,"Raleigh",100
+7,16,"Raleigh",98.1
+7,17,"Raleigh",88.8
+7,18,"Raleigh",65.7
+7,19,"Raleigh",45.9
+7,20,"Raleigh",33.5
+7,21,"Raleigh",23
+7,22,"Raleigh",12.6
+7,23,"Raleigh",6.9
+3,0,"St. Louis",4.2
+3,1,"St. Louis",1.2
+3,2,"St. Louis",0
+3,3,"St. Louis",0
+3,4,"St. Louis",2
+3,5,"St. Louis",11
+3,6,"St. Louis",42
+3,7,"St. Louis",75
+3,8,"St. Louis",74
+3,9,"St. Louis",74.3
+3,10,"St. Louis",68.3
+3,11,"St. Louis",71.7
+3,12,"St. Louis",76.7
+3,13,"St. Louis",74.1
+3,14,"St. Louis",79.9
+3,15,"St. Louis",98.3
+3,16,"St. Louis",100
+3,17,"St. Louis",78.3
+3,18,"St. Louis",63
+3,19,"St. Louis",42.8
+3,20,"St. Louis",34
+3,21,"St. Louis",29.4
+3,22,"St. Louis",23
+3,23,"St. Louis",16.7
+4,0,"St. Louis",18
+4,1,"St. Louis",12
+4,2,"St. Louis",6
+4,3,"St. Louis",1.7
+4,4,"St. Louis",0
+4,5,"St. Louis",2
+4,6,"St. Louis",11.1
+4,7,"St. Louis",25.7
+4,8,"St. Louis",36.9
+4,9,"St. Louis",54.5
+4,10,"St. Louis",61.1
+4,11,"St. Louis",79.6
+4,12,"St. Louis",82.6
+4,13,"St. Louis",75.4
+4,14,"St. Louis",75.4
+4,15,"St. Louis",99
+4,16,"St. Louis",100
+4,17,"St. Louis",79.6
+4,18,"St. Louis",70.6
+4,19,"St. Louis",58.3
+4,20,"St. Louis",49.4
+4,21,"St. Louis",39.6
+4,22,"St. Louis",26.4
+4,23,"St. Louis",14.2
+5,0,"St. Louis",7.6
+5,1,"St. Louis",3.1
+5,2,"St. Louis",0.9
+5,3,"St. Louis",0
+5,4,"St. Louis",2
+5,5,"St. Louis",8.9
+5,6,"St. Louis",26.9
+5,7,"St. Louis",47.4
+5,8,"St. Louis",59.2
+5,9,"St. Louis",74.9
+5,10,"St. Louis",73.4
+5,11,"St. Louis",81.7
+5,12,"St. Louis",87.8
+5,13,"St. Louis",87
+5,14,"St. Louis",87.4
+5,15,"St. Louis",100
+5,16,"St. Louis",97.7
+5,17,"St. Louis",84.3
+5,18,"St. Louis",76.4
+5,19,"St. Louis",55.5
+5,20,"St. Louis",42.9
+5,21,"St. Louis",35.8
+5,22,"St. Louis",28.8
+5,23,"St. Louis",19.2
+6,0,"St. Louis",9.6
+6,1,"St. Louis",5.6
+6,2,"St. Louis",1.5
+6,3,"St. Louis",0.3
+6,4,"St. Louis",0
+6,5,"St. Louis",2.7
+6,6,"St. Louis",13.2
+6,7,"St. Louis",29.4
+6,8,"St. Louis",45.3
+6,9,"St. Louis",67.9
+6,10,"St. Louis",68.8
+6,11,"St. Louis",79
+6,12,"St. Louis",85.2
+6,13,"St. Louis",86.8
+6,14,"St. Louis",83.7
+6,15,"St. Louis",98.8
+6,16,"St. Louis",100
+6,17,"St. Louis",84
+6,18,"St. Louis",78.1
+6,19,"St. Louis",56.3
+6,20,"St. Louis",43.3
+6,21,"St. Louis",36.6
+6,22,"St. Louis",30.5
+6,23,"St. Louis",19.9
+7,0,"St. Louis",12.4
+7,1,"St. Louis",7.5
+7,2,"St. Louis",3
+7,3,"St. Louis",1.6
+7,4,"St. Louis",0
+7,5,"St. Louis",2.5
+7,6,"St. Louis",10
+7,7,"St. Louis",21.7
+7,8,"St. Louis",36.7
+7,9,"St. Louis",57.8
+7,10,"St. Louis",61.8
+7,11,"St. Louis",71.4
+7,12,"St. Louis",83.8
+7,13,"St. Louis",89.3
+7,14,"St. Louis",87.9
+7,15,"St. Louis",100
+7,16,"St. Louis",93.8
+7,17,"St. Louis",71.2
+7,18,"St. Louis",59.8
+7,19,"St. Louis",42.7
+7,20,"St. Louis",27.6
+7,21,"St. Louis",18.4
+7,22,"St. Louis",11.5
+7,23,"St. Louis",5.3
+3,0,"Detroit",4.1
+3,1,"Detroit",1.2
+3,2,"Detroit",0
+3,3,"Detroit",0.1
+3,4,"Detroit",1.9
+3,5,"Detroit",8.3
+3,6,"Detroit",32.1
+3,7,"Detroit",65.6
+3,8,"Detroit",69.1
+3,9,"Detroit",62
+3,10,"Detroit",52.1
+3,11,"Detroit",57.6
+3,12,"Detroit",64.4
+3,13,"Detroit",66.1
+3,14,"Detroit",72
+3,15,"Detroit",95.9
+3,16,"Detroit",100
+3,17,"Detroit",88.3
+3,18,"Detroit",62.1
+3,19,"Detroit",44
+3,20,"Detroit",33.2
+3,21,"Detroit",26.1
+3,22,"Detroit",21.5
+3,23,"Detroit",15.9
+4,0,"Detroit",16.1
+4,1,"Detroit",10.7
+4,2,"Detroit",8.2
+4,3,"Detroit",2.4
+4,4,"Detroit",0
+4,5,"Detroit",1.6
+4,6,"Detroit",10.5
+4,7,"Detroit",20.6
+4,8,"Detroit",29.2
+4,9,"Detroit",41.1
+4,10,"Detroit",46.9
+4,11,"Detroit",64.2
+4,12,"Detroit",75.6
+4,13,"Detroit",72.9
+4,14,"Detroit",78.1
+4,15,"Detroit",89.7
+4,16,"Detroit",100
+4,17,"Detroit",85.8
+4,18,"Detroit",71.8
+4,19,"Detroit",63.6
+4,20,"Detroit",60.3
+4,21,"Detroit",47.1
+4,22,"Detroit",32.9
+4,23,"Detroit",20.1
+5,0,"Detroit",11.7
+5,1,"Detroit",5.7
+5,2,"Detroit",1.6
+5,3,"Detroit",0
+5,4,"Detroit",1.2
+5,5,"Detroit",5.8
+5,6,"Detroit",21
+5,7,"Detroit",41.1
+5,8,"Detroit",54.6
+5,9,"Detroit",65.5
+5,10,"Detroit",62.6
+5,11,"Detroit",72.2
+5,12,"Detroit",80
+5,13,"Detroit",83
+5,14,"Detroit",85
+5,15,"Detroit",100
+5,16,"Detroit",99.8
+5,17,"Detroit",92.3
+5,18,"Detroit",76.8
+5,19,"Detroit",59.1
+5,20,"Detroit",45
+5,21,"Detroit",36.2
+5,22,"Detroit",32.7
+5,23,"Detroit",22.1
+6,0,"Detroit",13.7
+6,1,"Detroit",7.4
+6,2,"Detroit",5.1
+6,3,"Detroit",0.9
+6,4,"Detroit",0
+6,5,"Detroit",2.8
+6,6,"Detroit",11.9
+6,7,"Detroit",26.6
+6,8,"Detroit",44.4
+6,9,"Detroit",62.1
+6,10,"Detroit",61.4
+6,11,"Detroit",75.5
+6,12,"Detroit",76.1
+6,13,"Detroit",74.6
+6,14,"Detroit",71.9
+6,15,"Detroit",84.9
+6,16,"Detroit",100
+6,17,"Detroit",95.6
+6,18,"Detroit",77.2
+6,19,"Detroit",59.7
+6,20,"Detroit",47.5
+6,21,"Detroit",39.9
+6,22,"Detroit",36.1
+6,23,"Detroit",24.5
+7,0,"Detroit",18.4
+7,1,"Detroit",11
+7,2,"Detroit",8.4
+7,3,"Detroit",2.7
+7,4,"Detroit",0
+7,5,"Detroit",1
+7,6,"Detroit",7.7
+7,7,"Detroit",17
+7,8,"Detroit",29.3
+7,9,"Detroit",51.3
+7,10,"Detroit",50.9
+7,11,"Detroit",62.5
+7,12,"Detroit",74.2
+7,13,"Detroit",80.6
+7,14,"Detroit",84.8
+7,15,"Detroit",100
+7,16,"Detroit",98.8
+7,17,"Detroit",91.1
+7,18,"Detroit",71.5
+7,19,"Detroit",50.1
+7,20,"Detroit",35.3
+7,21,"Detroit",23.4
+7,22,"Detroit",17.5
+7,23,"Detroit",11.1
+3,0,"Philadelphia",5.8
+3,1,"Philadelphia",1.7
+3,2,"Philadelphia",0
+3,3,"Philadelphia",0
+3,4,"Philadelphia",2.8
+3,5,"Philadelphia",10.6
+3,6,"Philadelphia",39.6
+3,7,"Philadelphia",75.3
+3,8,"Philadelphia",76.2
+3,9,"Philadelphia",66.1
+3,10,"Philadelphia",58.1
+3,11,"Philadelphia",62.4
+3,12,"Philadelphia",70.3
+3,13,"Philadelphia",73.5
+3,14,"Philadelphia",78.2
+3,15,"Philadelphia",95.3
+3,16,"Philadelphia",100
+3,17,"Philadelphia",89.6
+3,18,"Philadelphia",66.1
+3,19,"Philadelphia",52.3
+3,20,"Philadelphia",42.9
+3,21,"Philadelphia",37.3
+3,22,"Philadelphia",30.4
+3,23,"Philadelphia",21.3
+4,0,"Philadelphia",18.4
+4,1,"Philadelphia",10.8
+4,2,"Philadelphia",6.5
+4,3,"Philadelphia",1.4
+4,4,"Philadelphia",0
+4,5,"Philadelphia",2.1
+4,6,"Philadelphia",12.8
+4,7,"Philadelphia",26.4
+4,8,"Philadelphia",38.2
+4,9,"Philadelphia",54.6
+4,10,"Philadelphia",63.9
+4,11,"Philadelphia",80.1
+4,12,"Philadelphia",93.1
+4,13,"Philadelphia",99.2
+4,14,"Philadelphia",100
+4,15,"Philadelphia",99.4
+4,16,"Philadelphia",79.3
+4,17,"Philadelphia",64.3
+4,18,"Philadelphia",57.9
+4,19,"Philadelphia",62
+4,20,"Philadelphia",70.7
+4,21,"Philadelphia",62.8
+4,22,"Philadelphia",41.7
+4,23,"Philadelphia",22.1
+5,0,"Philadelphia",10.8
+5,1,"Philadelphia",4.9
+5,2,"Philadelphia",1.4
+5,3,"Philadelphia",0
+5,4,"Philadelphia",2.1
+5,5,"Philadelphia",7.7
+5,6,"Philadelphia",24.5
+5,7,"Philadelphia",44.7
+5,8,"Philadelphia",56
+5,9,"Philadelphia",67.8
+5,10,"Philadelphia",70.5
+5,11,"Philadelphia",80.5
+5,12,"Philadelphia",88.5
+5,13,"Philadelphia",88.5
+5,14,"Philadelphia",88.8
+5,15,"Philadelphia",100
+5,16,"Philadelphia",99.6
+5,17,"Philadelphia",92.3
+5,18,"Philadelphia",70.3
+5,19,"Philadelphia",56.1
+5,20,"Philadelphia",45
+5,21,"Philadelphia",37.8
+5,22,"Philadelphia",33.4
+5,23,"Philadelphia",22.7
+6,0,"Philadelphia",10.8
+6,1,"Philadelphia",5.7
+6,2,"Philadelphia",3.8
+6,3,"Philadelphia",0.3
+6,4,"Philadelphia",0
+6,5,"Philadelphia",2.3
+6,6,"Philadelphia",12.2
+6,7,"Philadelphia",29.3
+6,8,"Philadelphia",45.9
+6,9,"Philadelphia",63.7
+6,10,"Philadelphia",67.3
+6,11,"Philadelphia",79.6
+6,12,"Philadelphia",86.2
+6,13,"Philadelphia",86.8
+6,14,"Philadelphia",88.2
+6,15,"Philadelphia",100
+6,16,"Philadelphia",99.8
+6,17,"Philadelphia",93
+6,18,"Philadelphia",75.8
+6,19,"Philadelphia",60.2
+6,20,"Philadelphia",47.2
+6,21,"Philadelphia",38.7
+6,22,"Philadelphia",33.2
+6,23,"Philadelphia",23.7
+7,0,"Philadelphia",15.9
+7,1,"Philadelphia",9.9
+7,2,"Philadelphia",5.9
+7,3,"Philadelphia",1.4
+7,4,"Philadelphia",0
+7,5,"Philadelphia",2
+7,6,"Philadelphia",9.9
+7,7,"Philadelphia",21.9
+7,8,"Philadelphia",35.6
+7,9,"Philadelphia",55.3
+7,10,"Philadelphia",63.1
+7,11,"Philadelphia",77.1
+7,12,"Philadelphia",88.8
+7,13,"Philadelphia",91.7
+7,14,"Philadelphia",91.6
+7,15,"Philadelphia",100
+7,16,"Philadelphia",98.4
+7,17,"Philadelphia",89
+7,18,"Philadelphia",68
+7,19,"Philadelphia",51.2
+7,20,"Philadelphia",39
+7,21,"Philadelphia",26.9
+7,22,"Philadelphia",17.9
+7,23,"Philadelphia",9.2
+3,0,"Cleveland",5.3
+3,1,"Cleveland",2.2
+3,2,"Cleveland",0.6
+3,3,"Cleveland",0
+3,4,"Cleveland",2.6
+3,5,"Cleveland",8.8
+3,6,"Cleveland",34
+3,7,"Cleveland",69.7
+3,8,"Cleveland",73.8
+3,9,"Cleveland",70.8
+3,10,"Cleveland",62.4
+3,11,"Cleveland",65.9
+3,12,"Cleveland",73.1
+3,13,"Cleveland",73
+3,14,"Cleveland",74.8
+3,15,"Cleveland",95.6
+3,16,"Cleveland",100
+3,17,"Cleveland",89.6
+3,18,"Cleveland",64
+3,19,"Cleveland",47.1
+3,20,"Cleveland",37.7
+3,21,"Cleveland",33.1
+3,22,"Cleveland",26.5
+3,23,"Cleveland",19.7
+4,0,"Cleveland",23.6
+4,1,"Cleveland",16.1
+4,2,"Cleveland",12.7
+4,3,"Cleveland",4.1
+4,4,"Cleveland",0
+4,5,"Cleveland",0
+4,6,"Cleveland",7
+4,7,"Cleveland",17
+4,8,"Cleveland",31.5
+4,9,"Cleveland",47.5
+4,10,"Cleveland",51.1
+4,11,"Cleveland",70
+4,12,"Cleveland",87.6
+4,13,"Cleveland",89.1
+4,14,"Cleveland",83.7
+4,15,"Cleveland",100
+4,16,"Cleveland",99.2
+4,17,"Cleveland",90.1
+4,18,"Cleveland",76.5
+4,19,"Cleveland",63.1
+4,20,"Cleveland",60.3
+4,21,"Cleveland",48.6
+4,22,"Cleveland",34.5
+4,23,"Cleveland",20.6
+5,0,"Cleveland",9.3
+5,1,"Cleveland",5
+5,2,"Cleveland",1.9
+5,3,"Cleveland",0
+5,4,"Cleveland",0.9
+5,5,"Cleveland",5.5
+5,6,"Cleveland",20.5
+5,7,"Cleveland",41.4
+5,8,"Cleveland",51.9
+5,9,"Cleveland",63
+5,10,"Cleveland",62.3
+5,11,"Cleveland",72.3
+5,12,"Cleveland",80.5
+5,13,"Cleveland",83.4
+5,14,"Cleveland",84.3
+5,15,"Cleveland",98.4
+5,16,"Cleveland",100
+5,17,"Cleveland",92.4
+5,18,"Cleveland",74.1
+5,19,"Cleveland",53.6
+5,20,"Cleveland",42.2
+5,21,"Cleveland",35.6
+5,22,"Cleveland",33.1
+5,23,"Cleveland",22.7
+6,0,"Cleveland",13.9
+6,1,"Cleveland",8.2
+6,2,"Cleveland",5.2
+6,3,"Cleveland",0.4
+6,4,"Cleveland",0
+6,5,"Cleveland",1.5
+6,6,"Cleveland",10.7
+6,7,"Cleveland",25.9
+6,8,"Cleveland",43.7
+6,9,"Cleveland",60.7
+6,10,"Cleveland",63
+6,11,"Cleveland",80.4
+6,12,"Cleveland",75.8
+6,13,"Cleveland",72.9
+6,14,"Cleveland",71.6
+6,15,"Cleveland",79.7
+6,16,"Cleveland",100
+6,17,"Cleveland",97.4
+6,18,"Cleveland",77.2
+6,19,"Cleveland",59.4
+6,20,"Cleveland",46.3
+6,21,"Cleveland",39.6
+6,22,"Cleveland",33.4
+6,23,"Cleveland",23.3
+7,0,"Cleveland",15.1
+7,1,"Cleveland",9.8
+7,2,"Cleveland",7.4
+7,3,"Cleveland",1.3
+7,4,"Cleveland",0
+7,5,"Cleveland",1
+7,6,"Cleveland",6.9
+7,7,"Cleveland",17.4
+7,8,"Cleveland",30.7
+7,9,"Cleveland",50.1
+7,10,"Cleveland",56.4
+7,11,"Cleveland",70.8
+7,12,"Cleveland",77.3
+7,13,"Cleveland",77.8
+7,14,"Cleveland",74.9
+7,15,"Cleveland",88.9
+7,16,"Cleveland",100
+7,17,"Cleveland",84.8
+7,18,"Cleveland",59.1
+7,19,"Cleveland",41.8
+7,20,"Cleveland",30.2
+7,21,"Cleveland",21.9
+7,22,"Cleveland",14.3
+7,23,"Cleveland",8.4
